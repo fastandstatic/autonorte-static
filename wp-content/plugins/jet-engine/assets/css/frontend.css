@@ -446,11 +446,6 @@ body[data-elementor-device-mode=mobile] .jet-engine-gallery-grid.grid-col-mobile
       align-self: center;
 }
 
-.brxe-jet-engine-listing-dynamic-field {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
 .brxe-jet-engine-listing-dynamic-field .jet-listing-dynamic-field__icon {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;

@@ -4,3 +4,31 @@
     margin-bottom: 5px;
     margin-top: 5px;
 }/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-8b702ba */.elementor-message.elementor-message-success {
+        display: none;
+    }
+    
+    .swal2-container button:where(.swal2-styled).swal2-confirm {
+    border: 0;
+    background: initial;
+    color: #ffffff;
+    font-size: 1em;
+}
+.swal2-popup.swal2-modal.swal2-icon-success.swal2-show {
+    border-radius: 20px;
+    border: 4px solid #ffff;
+    color: #111313;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+h2#swal2-title {
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'Poppins';
+    color: #075e55;
+}
+button.swal2-confirm.swal-confirm-button.swal2-styled.swal2-default-outline {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+}/* End custom CSS */
