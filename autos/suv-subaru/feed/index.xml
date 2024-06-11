@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SUV archivos - AUTONORTE</title>
+	<atom:link href="/autos/suv-subaru/feed/" rel="self" type="application/rss+xml" />
+	<link>/autos/suv-subaru/</link>
+	<description></description>
+	<lastBuildDate>Tue, 04 Jun 2024 21:08:58 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
+	<title>SUV archivos - AUTONORTE</title>
+	<link>/autos/suv-subaru/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Evoltis</title>
+		<link>/autos-nuevos/evoltis/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 05:51:57 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5958</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Forester</title>
+		<link>/autos-nuevos/forester/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 05:43:47 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5948</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Crosstrek</title>
+		<link>/autos-nuevos/crosstrek/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 05:34:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5936</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

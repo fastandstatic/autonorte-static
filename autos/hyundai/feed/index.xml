@@ -8,32 +8,130 @@
 	>
 
 <channel>
-	<title>Hyundai &#8211; AutoNorte</title>
+	<title>Hyundai archivos - AUTONORTE</title>
 	<atom:link href="/autos/hyundai/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>siempre avanzando para ti</description>
-	<lastBuildDate>Thu, 11 Apr 2024 21:43:34 +0000</lastBuildDate>
+	<link>/autos/hyundai/</link>
+	<description></description>
+	<lastBuildDate>Thu, 06 Jun 2024 16:18:13 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Hyundai &#8211; AutoNorte</title>
-	<link>/</link>
+	<title>Hyundai archivos - AUTONORTE</title>
+	<link>/autos/hyundai/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hyundai Tucson</title>
-		<link>/autos-nuevos/hyundai-tucson/</link>
+		<title>Grand Metro Taxi</title>
+		<link>/autos-nuevos/gran-metrotaxi/</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Tue, 09 Apr 2024 21:02:39 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=3510</guid>
+		<pubDate>Thu, 25 Apr 2024 02:54:57 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5763</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Staria</title>
+		<link>/autos-nuevos/staria/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 02:45:38 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5724</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ioniq 5</title>
+		<link>/autos-nuevos/ioniq-5/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 04:08:21 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5714</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kona Híbrida (HEV)</title>
+		<link>/autos-nuevos/kona-hibrida-hev/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 04:02:53 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5704</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Venue</title>
+		<link>/autos-nuevos/venue/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 03:58:10 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5700</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Creta</title>
+		<link>/autos-nuevos/creta/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 03:50:47 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5690</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Palisade</title>
+		<link>/autos-nuevos/palisade/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 03:42:57 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5680</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HB20 Hatchback</title>
+		<link>/autos-nuevos/hb20-hatchback/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 03:37:51 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5678</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
