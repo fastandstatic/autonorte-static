@@ -16,13 +16,15 @@
 	<meta property="og:locale" content="es_ES">
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="Usados Certificados - AUTONORTE">
-	<meta property="og:description" content="Usados certificados | |">
+	<meta property="og:description" content="Usados certificados | | Min Precio: Max Precio: Aplicar">
 	<meta property="og:url" content="/usados-certificados/">
 	<meta property="og:site_name" content="AUTONORTE">
-	<meta property="article:modified_time" content="2024-05-30T23:27:35+00:00">
+	<meta property="article:modified_time" content="2024-06-12T14:03:01+00:00">
 	<meta property="og:image" content="/wp-content/uploads/2024/04/controlar-2.png">
 	<meta name="twitter:card" content="summary_large_image">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/usados-certificados/","url":"/usados-certificados/","name":"Usados Certificados - AUTONORTE","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/usados-certificados/#primaryimage"},"image":{"@id":"/usados-certificados/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2024/04/controlar-2.png","datePublished":"2024-03-27T13:58:44+00:00","dateModified":"2024-05-30T23:27:35+00:00","inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/usados-certificados/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"/usados-certificados/#primaryimage","url":"/wp-content/uploads/2024/04/controlar-2.png","contentUrl":"/wp-content/uploads/2024/04/controlar-2.png","width":63,"height":63},{"@type":"WebSite","@id":"/#website","url":"/","name":"AUTONORTE","description":"","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"/#organization","name":"AUTONORTE","url":"/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"/#/schema/logo/image/","url":"","contentUrl":"","caption":"AUTONORTE"},"image":{"@id":"/#/schema/logo/image/"}}]}</script>
+	<meta name="twitter:label1" content="Tiempo de lectura">
+	<meta name="twitter:data1" content="1 minuto">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/usados-certificados/","url":"/usados-certificados/","name":"Usados Certificados - AUTONORTE","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/usados-certificados/#primaryimage"},"image":{"@id":"/usados-certificados/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2024/04/controlar-2.png","datePublished":"2024-03-27T13:58:44+00:00","dateModified":"2024-06-12T14:03:01+00:00","inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/usados-certificados/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"/usados-certificados/#primaryimage","url":"/wp-content/uploads/2024/04/controlar-2.png","contentUrl":"/wp-content/uploads/2024/04/controlar-2.png","width":63,"height":63},{"@type":"WebSite","@id":"/#website","url":"/","name":"AUTONORTE","description":"","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"/#organization","name":"AUTONORTE","url":"/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"/#/schema/logo/image/","url":"","contentUrl":"","caption":"AUTONORTE"},"image":{"@id":"/#/schema/logo/image/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -66,7 +68,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="font-awesome-5-all-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.21.8" media="all">
 <link rel="stylesheet" id="font-awesome-4-shim-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.21.8" media="all">
 <link rel="stylesheet" id="elementor-global-css" href="/wp-content/uploads/elementor/css/global.css?ver=1716828214" media="all">
-<link rel="stylesheet" id="elementor-post-1255-css" href="/wp-content/uploads/elementor/css/post-1255.css?ver=1717111657" media="all">
+<link rel="stylesheet" id="elementor-post-1255-css" href="/wp-content/uploads/elementor/css/post-1255.css?ver=1718200982" media="all">
 <link rel="stylesheet" id="elementor-post-613-css" href="/wp-content/uploads/elementor/css/post-613.css?ver=1716828215" media="all">
 <link rel="stylesheet" id="elementor-post-759-css" href="/wp-content/uploads/elementor/css/post-759.css?ver=1718040162" media="all">
 <link rel="stylesheet" id="elementor-post-9952-css" href="/wp-content/uploads/elementor/css/post-9952.css?ver=1716828215" media="all">
@@ -477,6 +479,13 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 |
 <div>
 <div id="filters-4"></div>
+<div>
+  <label for="min-price">Min Precio: </label>
+  <input type="number" id="min-price" placeholder="Min">
+  <label for="max-price">Max Precio: </label>
+  <input type="number" id="max-price" placeholder="Max">
+  <button id="apply-price-filter">Aplicar</button>
+</div>
 </div>
 </div>
 <div id="hits"></div>
@@ -588,13 +597,32 @@ widgets.push(
             item: "{{label}}",
           },
       }),
-      instantsearch.widgets.menuSelect({
+      instantsearch.widgets.rangeSlider({
         container: '#filters-4',
         attribute: 'precio_user',
+        templates: {
+          header: 'Rango de Precio',
+        },
+        tooltips: {
+          format: function(rawValue) {
+            return `$${rawValue}`;
+          }
+        },
       })
+      // instantsearch.widgets.menuSelect({
+      //   container: '#filters-4',
+      //   attribute: 'precio_user',
+      // })
     )
   search.addWidgets(widgets);
   search.start();
+  document.getElementById('apply-price-filter').addEventListener('click', () => {
+  const minPrice = document.getElementById('min-price').value;
+  const maxPrice = document.getElementById('max-price').value;
+
+  search.helper.setQueryParameter('filters', `precio_user >= ${minPrice} AND precio_user <= ${maxPrice}`);
+  search.helper.search();
+});
 </script>
 
     <style>.ais-Hits-list {
@@ -1629,7 +1657,7 @@ Sector lote Bureche
 <script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
-<script id="elementor-pro-frontend-js-before">var ElementorProFrontendConfig = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"6f5feb83e0","urls":{"assets":"\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};</script>
+<script id="elementor-pro-frontend-js-before">var ElementorProFrontendConfig = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"733da3e9fc","urls":{"assets":"\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};</script>
 <script src="/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.21.3" id="elementor-pro-frontend-js"></script>
 <script src="/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
 <script src="/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
