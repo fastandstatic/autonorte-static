@@ -23,6 +23,12 @@
     backdrop-filter: blur(12px);
     transition: background-color 0.3s ease, backdrop-filter 0.3s cubic-bezier(0.42, 0, 0, 1.32);
 }/* End custom CSS */
+/* Start custom CSS for form, class: .elementor-element-122636c */a {
+    background-color: transparent;
+    text-decoration: none;
+    color: #214d44;
+    font-weight: 500;
+}/* End custom CSS */
 /* Start custom CSS for html, class: .elementor-element-4c85f1b */.elementor-message.elementor-message-success {
         display: none;
     }
