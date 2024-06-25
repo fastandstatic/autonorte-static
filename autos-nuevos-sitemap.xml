@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-nuevos/</loc>
-		<lastmod>2024-06-25T16:57:41+00:00</lastmod>
+		<lastmod>2024-06-25T17:09:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos-nuevos/camion-gh8j-cargo/</loc>
@@ -21,9 +21,6 @@
 	<url>
 		<loc>/autos-nuevos/mustang/</loc>
 		<lastmod>2024-05-31T15:27:30+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/Mustang_IMG_Premium_miniatur.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/glory-580/</loc>
@@ -117,13 +114,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/explorer/</loc>
-		<lastmod>2024-06-04T19:21:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/EXPLORER-MINI-11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/k05s-basic/</loc>
 		<lastmod>2024-06-05T15:17:03+00:00</lastmod>
 		<image:image>
@@ -135,13 +125,6 @@
 		<lastmod>2024-06-05T15:19:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/thumb-Cargo-Van-C35-370x220-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/pilot/</loc>
-		<lastmod>2024-06-05T16:24:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Pilito_Autonorte_New_05-copia.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -224,9 +207,6 @@
 	<url>
 		<loc>/autos-nuevos/kona-gasolina/</loc>
 		<lastmod>2024-06-12T21:20:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/kona-electrica/</loc>
@@ -252,9 +232,6 @@
 	<url>
 		<loc>/autos-nuevos/s-cross-4x4/</loc>
 		<lastmod>2024-06-12T21:54:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/S-Cross-interna-Plate-11.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/forester/</loc>
@@ -315,9 +292,6 @@
 	<url>
 		<loc>/autos-nuevos/baleno-cross/</loc>
 		<lastmod>2024-06-12T22:07:27+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/swift-hibrido/</loc>
@@ -336,16 +310,10 @@
 	<url>
 		<loc>/autos-nuevos/jimny-5-puertas/</loc>
 		<lastmod>2024-06-12T22:08:15+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/jinmy-interna1.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/jimny/</loc>
 		<lastmod>2024-06-12T22:08:22+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/jinmy-interna1.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/hb20s-sedan/</loc>
@@ -392,72 +360,53 @@
 	<url>
 		<loc>/autos-nuevos/swift-dzire/</loc>
 		<lastmod>2024-06-12T22:10:36+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Swift-Dzire_Autonorte_New_01333333-11.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/fronx/</loc>
 		<lastmod>2024-06-13T17:03:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/escape/</loc>
-		<lastmod>2024-06-25T14:34:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/FOTO-MINUATURA-ESCAPE11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/escape-hibrida/</loc>
-		<lastmod>2024-06-25T15:00:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/FOTO-MINUATURA1.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/bronco/</loc>
 		<lastmod>2024-06-25T16:49:45+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/BRONCO-4X4.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/expedition/</loc>
-		<lastmod>2024-06-25T16:51:12+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/EXPEDITION-MINIATURA1.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/ranger/</loc>
 		<lastmod>2024-06-25T16:52:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/RANGER-MINIATURA11.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/ranger-raptor/</loc>
 		<lastmod>2024-06-25T16:53:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/RANGER-MINIATURA-RAPTOR11.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/f-150/</loc>
 		<lastmod>2024-06-25T16:55:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/F150-MINIATURA11.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/autos-nuevos/f-150-hibrida/</loc>
 		<lastmod>2024-06-25T16:57:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/autos-nuevos/pilot/</loc>
+		<lastmod>2024-06-25T17:07:40+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/F150-MINIATURA11-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/Pilito_Autonorte_New_05-copia.webp</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/expedition/</loc>
+		<lastmod>2024-06-25T17:08:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/autos-nuevos/escape/</loc>
+		<lastmod>2024-06-25T17:09:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/autos-nuevos/escape-hibrida/</loc>
+		<lastmod>2024-06-25T17:09:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/autos-nuevos/explorer/</loc>
+		<lastmod>2024-06-25T17:09:58+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
