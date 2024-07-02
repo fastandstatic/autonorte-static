@@ -11,8 +11,8 @@
 	<title>Subaru archivos - AUTONORTE</title>
 	<atom:link href="/autos/subaru/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/subaru/</link>
-	<description></description>
-	<lastBuildDate>Wed, 12 Jun 2024 22:10:22 +0000</lastBuildDate>
+	<description>AN</description>
+	<lastBuildDate>Thu, 27 Jun 2024 19:17:14 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>WRX Sedán</title>
+		<title>WRX High</title>
 		<link>/autos-nuevos/wrx-sedan/</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>

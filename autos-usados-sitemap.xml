@@ -2,107 +2,182 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-usados/</loc>
-		<lastmod>2024-06-26T19:34:28+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/hyundai-graviti/</loc>
-		<lastmod>2024-06-12T15:32:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/10651/</loc>
-		<lastmod>2024-06-12T21:47:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/nissan-versa-v-drive/</loc>
-		<lastmod>2024-06-13T14:16:19+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/suzuki-grand-vitara/</loc>
-		<lastmod>2024-06-13T14:20:05+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/renault-duster-3/</loc>
-		<lastmod>2024-06-13T14:20:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/honda-crv/</loc>
-		<lastmod>2024-06-13T14:37:59+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/mercedes-cla-200/</loc>
-		<lastmod>2024-06-13T14:47:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/kia-sportage/</loc>
-		<lastmod>2024-06-13T14:47:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/mini-countryman/</loc>
-		<lastmod>2024-06-13T14:48:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/nissan-march/</loc>
-		<lastmod>2024-06-13T14:49:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/bmw-330/</loc>
-		<lastmod>2024-06-13T14:50:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/bmw-x3-30i/</loc>
-		<lastmod>2024-06-13T15:15:45+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/volkswagen-passat/</loc>
-		<lastmod>2024-06-13T16:42:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/seat-arona-reference/</loc>
-		<lastmod>2024-06-13T20:51:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/ford-fiesta/</loc>
-		<lastmod>2024-06-18T21:06:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/hyundai-kona-electrica/</loc>
-		<lastmod>2024-06-18T21:07:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos-usados/hyundai-hb20s/</loc>
-		<lastmod>2024-06-18T21:12:46+00:00</lastmod>
+		<lastmod>2024-06-27T21:34:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos-usados/citroen-c-elysee-shine/</loc>
-		<lastmod>2024-06-18T21:49:38+00:00</lastmod>
+		<lastmod>2024-06-26T21:22:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/CITROEN-7.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/hyundai-veracruz-gls/</loc>
-		<lastmod>2024-06-19T13:49:49+00:00</lastmod>
+		<loc>/autos-usados/volkswagen-passat/</loc>
+		<lastmod>2024-06-26T21:25:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/VOLK-4.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/bmw-x3-20d/</loc>
-		<lastmod>2024-06-19T13:50:54+00:00</lastmod>
+		<loc>/autos-usados/10651/</loc>
+		<lastmod>2024-06-26T21:27:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/TUCSON-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/hyundai-tucson-nx4/</loc>
-		<lastmod>2024-06-19T20:06:14+00:00</lastmod>
+		<loc>/autos-usados/nissan-versa-v-drive/</loc>
+		<lastmod>2024-06-26T21:29:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/NISSAN-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/ford-ecosport/</loc>
-		<lastmod>2024-06-19T20:07:11+00:00</lastmod>
+		<loc>/autos-usados/renault-duster-3/</loc>
+		<lastmod>2024-06-26T21:47:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/DUSTER-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/suzuki-grand-vitara/</loc>
+		<lastmod>2024-06-26T21:48:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/VITARA-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/autos-usados/suzuki-vitara-life/</loc>
-		<lastmod>2024-06-21T14:31:51+00:00</lastmod>
+		<lastmod>2024-06-26T22:01:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/VITARA-5-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/kia-sportage-2/</loc>
-		<lastmod>2024-06-21T14:34:51+00:00</lastmod>
+		<loc>/autos-usados/hyundai-tucson-nx4/</loc>
+		<lastmod>2024-06-26T22:02:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/TUC-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/hyundai-graviti/</loc>
+		<lastmod>2024-06-26T22:04:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/GRAVITY-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/hyundai-veracruz-gls/</loc>
+		<lastmod>2024-06-26T22:05:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/VERA-7.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/honda-crv/</loc>
+		<lastmod>2024-06-26T22:06:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/CRV-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/seat-arona-reference/</loc>
+		<lastmod>2024-06-26T22:08:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/SEAT-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/mercedes-cla-200/</loc>
+		<lastmod>2024-06-26T22:08:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/CLA-7.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/mini-countryman/</loc>
+		<lastmod>2024-06-27T16:50:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/MINI-2.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/autos-usados/chevrolet-sonic-lt/</loc>
-		<lastmod>2024-06-26T19:34:28+00:00</lastmod>
+		<lastmod>2024-06-27T16:51:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/SONIC-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/hyundai-hb20s/</loc>
+		<lastmod>2024-06-27T16:53:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/HB20S-P1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/ford-fiesta/</loc>
+		<lastmod>2024-06-27T16:54:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/FORD-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/nissan-march/</loc>
+		<lastmod>2024-06-27T16:56:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/MARCH-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/ford-ecosport/</loc>
+		<lastmod>2024-06-27T17:07:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/ECO-5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/bmw-x3-30i/</loc>
+		<lastmod>2024-06-27T17:09:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/X3-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/bmw-x3-20d/</loc>
+		<lastmod>2024-06-27T17:10:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/BMW-6.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/bmw-330/</loc>
+		<lastmod>2024-06-27T17:11:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/BMW-4-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/hyundai-kona-electrica/</loc>
+		<lastmod>2024-06-27T17:12:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/KONA-7.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/kia-sportage-2/</loc>
+		<lastmod>2024-06-27T21:33:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/KIA-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/kia-sportage/</loc>
+		<lastmod>2024-06-27T21:34:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/SPORTAGE-6.jpg</image:loc>
+		</image:image>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
