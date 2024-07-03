@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-nuevos/</loc>
-		<lastmod>2024-07-02T15:58:13+00:00</lastmod>
+		<lastmod>2024-07-03T20:12:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos-nuevos/camion-gh8j-cargo/</loc>
@@ -54,13 +54,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/sg1a-minimula/</loc>
-		<lastmod>2024-06-04T15:15:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/minimula.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/camion-gh8j-largo/</loc>
 		<lastmod>2024-06-04T15:16:33+00:00</lastmod>
 		<image:image>
@@ -79,13 +72,6 @@
 		<lastmod>2024-06-04T15:20:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/fcj9-camionl.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/camion-dutro-hibrido/</loc>
-		<lastmod>2024-06-04T15:21:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Camion-Dutro-Hibrido_Autonorte.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -201,13 +187,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/forester-hibrida/</loc>
-		<lastmod>2024-06-12T21:22:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/FORESTER_Autonorte_New_0111.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/ioniq-5/</loc>
 		<lastmod>2024-06-12T21:52:54+00:00</lastmod>
 		<image:image>
@@ -215,45 +194,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/forester/</loc>
-		<lastmod>2024-06-12T21:56:08+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/FORESTER_Autonorte_New_2121.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c4/</loc>
-		<lastmod>2024-06-12T21:57:24+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/venue/</loc>
 		<lastmod>2024-06-12T21:59:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/crosstrek/</loc>
-		<lastmod>2024-06-12T21:59:42+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/1-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/crosstrek-hibrida/</loc>
-		<lastmod>2024-06-12T21:59:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Crosstrek-Hibrida_Autonorte221.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/suzuki-vitara/</loc>
-		<lastmod>2024-06-12T21:59:56+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Creta_Autonorte_New_0111w.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -390,34 +334,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/s-cross-4x4/</loc>
-		<lastmod>2024-06-26T20:16:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/S-Cross-interna-Plate-11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/baleno-cross/</loc>
-		<lastmod>2024-06-26T20:20:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/swift-dzire/</loc>
-		<lastmod>2024-06-26T20:21:15+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Swift-Dzire_Autonorte_New_01333333-11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/jimny-5-puertas/</loc>
-		<lastmod>2024-06-26T20:30:07+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Jimny_GA_WEB-Verde1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/escape-hibrida/</loc>
 		<lastmod>2024-06-26T20:38:23+00:00</lastmod>
 		<image:image>
@@ -429,13 +345,6 @@
 		<lastmod>2024-06-26T20:39:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/FOTO-MINUATURA-ESCAPE11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/fronx/</loc>
-		<lastmod>2024-06-27T16:47:42+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -471,6 +380,97 @@
 		<lastmod>2024-07-02T15:58:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/Creta_Autonorte_New_0111.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/suzuki-vitara/</loc>
+		<lastmod>2024-07-03T14:34:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Creta_Autonorte_New_0111w.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/swift-dzire/</loc>
+		<lastmod>2024-07-03T14:36:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Swift-Dzire_Autonorte_New_01333333-11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/baleno-cross/</loc>
+		<lastmod>2024-07-03T14:51:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/jimny-5-puertas/</loc>
+		<lastmod>2024-07-03T14:57:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Jimny_GA_WEB-Verde1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/fronx/</loc>
+		<lastmod>2024-07-03T15:00:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/s-cross-4x4/</loc>
+		<lastmod>2024-07-03T15:01:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/S-Cross-interna-Plate-11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/crosstrek/</loc>
+		<lastmod>2024-07-03T15:11:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/1-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/forester/</loc>
+		<lastmod>2024-07-03T15:13:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/FORESTER_Autonorte_New_2121.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/crosstrek-hibrida/</loc>
+		<lastmod>2024-07-03T15:16:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Crosstrek-Hibrida_Autonorte221.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/forester-hibrida/</loc>
+		<lastmod>2024-07-03T15:18:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/FORESTER_Autonorte_New_0111.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/camion-dutro-hibrido/</loc>
+		<lastmod>2024-07-03T16:57:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Camion-Dutro-Hibrido_Autonorte.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/sg1a-minimula/</loc>
+		<lastmod>2024-07-03T17:04:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/minimula.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c4/</loc>
+		<lastmod>2024-07-03T20:12:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
