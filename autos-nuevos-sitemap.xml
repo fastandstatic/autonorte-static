@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-nuevos/</loc>
-		<lastmod>2024-07-03T20:12:50+00:00</lastmod>
+		<lastmod>2024-07-04T15:08:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos-nuevos/camion-gh8j-cargo/</loc>
@@ -114,13 +114,6 @@
 		<lastmod>2024-06-05T17:12:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/city_Autonorte_New_05-copia.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/zr-v/</loc>
-		<lastmod>2024-06-05T19:24:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Lateral_Acero-Moderno_ZR-V.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -285,38 +278,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/f-150/</loc>
-		<lastmod>2024-06-26T19:53:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/F150-MINIATURA11-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/ranger-raptor/</loc>
-		<lastmod>2024-06-26T19:56:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/RANGER-MINIATURA-RAPTOR11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/ranger/</loc>
-		<lastmod>2024-06-26T20:02:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/RANGER-MINIATURA11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/explorer/</loc>
 		<lastmod>2024-06-26T20:03:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/EXPLORER-MINI-11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/expedition/</loc>
-		<lastmod>2024-06-26T20:05:22+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/EXPEDITION-MINIATURA1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -327,24 +292,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/mustang/</loc>
-		<lastmod>2024-06-26T20:10:15+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/Mustang_IMG_Premium_miniatur.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/escape-hibrida/</loc>
 		<lastmod>2024-06-26T20:38:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/FOTO-MINUATURA1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/escape/</loc>
-		<lastmod>2024-06-26T20:39:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/05/FOTO-MINUATURA-ESCAPE11.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -471,6 +422,55 @@
 		<lastmod>2024-07-03T20:12:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/f-150/</loc>
+		<lastmod>2024-07-04T14:58:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/F150-MINIATURA11-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/ranger-raptor/</loc>
+		<lastmod>2024-07-04T14:59:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/RANGER-MINIATURA-RAPTOR11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/ranger/</loc>
+		<lastmod>2024-07-04T15:00:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/RANGER-MINIATURA11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/expedition/</loc>
+		<lastmod>2024-07-04T15:02:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/EXPEDITION-MINIATURA1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/escape/</loc>
+		<lastmod>2024-07-04T15:04:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/FOTO-MINUATURA-ESCAPE11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/mustang/</loc>
+		<lastmod>2024-07-04T15:04:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/05/Mustang_IMG_Premium_miniatur.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/zr-v/</loc>
+		<lastmod>2024-07-04T15:08:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Lateral_Acero-Moderno_ZR-V.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
