@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comentarios en AUTONORTE	</title>
+	Comentarios en Grupo Automotríz	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>AN</description>
-	<lastBuildDate>Thu, 11 Jul 2024 15:26:26 +0000</lastBuildDate>
+	<description>Grupo Automotríz</description>
+	<lastBuildDate>Tue, 30 Jul 2024 20:49:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 </channel>
 </rss>

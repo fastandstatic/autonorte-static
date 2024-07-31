@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Suzuki archivos - AUTONORTE</title>
+	<title>Suzuki archivos - Grupo Automotríz</title>
 	<atom:link href="/autos/suzuki/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/suzuki/</link>
-	<description>AN</description>
-	<lastBuildDate>Wed, 03 Jul 2024 15:01:59 +0000</lastBuildDate>
+	<description>Grupo Automotríz</description>
+	<lastBuildDate>Mon, 22 Jul 2024 14:48:27 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Suzuki archivos - AUTONORTE</title>
+	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
+	<title>Suzuki archivos - Grupo Automotríz</title>
 	<link>/autos/suzuki/</link>
 	<width>32</width>
 	<height>32</height>
@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 05:11:24 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5918</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5918</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -47,7 +47,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 05:03:24 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5908</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5908</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -61,7 +61,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:56:34 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5898</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5898</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -75,7 +75,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:48:53 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5890</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5890</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -89,7 +89,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:43:48 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5881</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5881</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -103,7 +103,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:31:07 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5871</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5871</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -117,7 +117,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Tue, 09 Apr 2024 21:14:26 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=3531</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=3531</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

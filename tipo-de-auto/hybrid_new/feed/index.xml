@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Hybrid archivos - AUTONORTE</title>
+	<title>Hybrid archivos - Grupo Automotríz</title>
 	<atom:link href="/tipo-de-auto/hybrid_new/feed/" rel="self" type="application/rss+xml" />
 	<link>/tipo-de-auto/hybrid_new/</link>
-	<description>AN</description>
+	<description>Grupo Automotríz</description>
 	<lastBuildDate>Wed, 12 Jun 2024 21:20:18 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Hybrid archivos - AUTONORTE</title>
+	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
+	<title>Hybrid archivos - Grupo Automotríz</title>
 	<link>/tipo-de-auto/hybrid_new/</link>
 	<width>32</width>
 	<height>32</height>
@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Tue, 23 Apr 2024 04:02:53 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5704</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5704</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

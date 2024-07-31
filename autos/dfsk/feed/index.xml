@@ -8,136 +8,24 @@
 	>
 
 <channel>
-	<title>DFSK archivos - AUTONORTE</title>
+	<title>DFSK archivos - Grupo Automotríz</title>
 	<atom:link href="/autos/dfsk/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/dfsk/</link>
-	<description>AN</description>
-	<lastBuildDate>Wed, 05 Jun 2024 15:19:54 +0000</lastBuildDate>
+	<description>Grupo Automotríz</description>
+	<lastBuildDate>Tue, 30 Jul 2024 20:49:02 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>DFSK archivos - AUTONORTE</title>
+	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
+	<title>DFSK archivos - Grupo Automotríz</title>
 	<link>/autos/dfsk/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Glory 580</title>
-		<link>/autos-nuevos/glory-580/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:45:11 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=6037</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>K05S Luxury</title>
-		<link>/autos-nuevos/k05s-luxury/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:41:40 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=6029</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>C35</title>
-		<link>/autos-nuevos/c35/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:39:37 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=6021</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>K05S Basic</title>
-		<link>/autos-nuevos/k05s-basic/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:37:49 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=6011</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>C37 X9</title>
-		<link>/autos-nuevos/c37-x9/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:34:48 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=6003</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>K07S</title>
-		<link>/autos-nuevos/k07s/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:31:45 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5995</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>C31</title>
-		<link>/autos-nuevos/c31/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:27:04 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5986</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>K01S</title>
-		<link>/autos-nuevos/k01s/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:22:29 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5976</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>

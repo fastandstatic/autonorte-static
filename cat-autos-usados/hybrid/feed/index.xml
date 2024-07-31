@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>Hybrid archivos - AUTONORTE</title>
+	<title>Hybrid archivos - Grupo Automotríz</title>
 	<atom:link href="/cat-autos-usados/hybrid/feed/" rel="self" type="application/rss+xml" />
 	<link>/cat-autos-usados/hybrid/</link>
-	<description>AN</description>
-	<lastBuildDate>Thu, 11 Jul 2024 15:26:26 +0000</lastBuildDate>
+	<description>Grupo Automotríz</description>
+	<lastBuildDate>Tue, 30 Jul 2024 20:49:02 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Hybrid archivos - AUTONORTE</title>
+	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
+	<title>Hybrid archivos - Grupo Automotríz</title>
 	<link>/cat-autos-usados/hybrid/</link>
 	<width>32</width>
 	<height>32</height>

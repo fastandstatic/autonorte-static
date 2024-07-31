@@ -8,46 +8,32 @@
 	>
 
 <channel>
-	<title>Hyundai archivos - AUTONORTE</title>
+	<title>Hyundai archivos - Grupo Automotríz</title>
 	<atom:link href="/autos/hyundai/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/hyundai/</link>
-	<description>AN</description>
-	<lastBuildDate>Tue, 02 Jul 2024 15:58:13 +0000</lastBuildDate>
+	<description>Grupo Automotríz</description>
+	<lastBuildDate>Tue, 23 Jul 2024 14:56:07 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Hyundai archivos - AUTONORTE</title>
+	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
+	<title>Hyundai archivos - Grupo Automotríz</title>
 	<link>/autos/hyundai/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Grand Metro Taxi</title>
-		<link>/autos-nuevos/gran-metrotaxi/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 02:54:57 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5763</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Staria</title>
 		<link>/autos-nuevos/staria/</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 02:45:38 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5724</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5724</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -61,7 +47,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Tue, 23 Apr 2024 04:08:21 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5714</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5714</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -75,7 +61,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Tue, 23 Apr 2024 04:02:53 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5704</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5704</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -89,7 +75,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Tue, 23 Apr 2024 03:58:10 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5700</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5700</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -103,7 +89,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Tue, 23 Apr 2024 03:50:47 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5690</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5690</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -117,7 +103,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Tue, 23 Apr 2024 03:42:57 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5680</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5680</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -131,7 +117,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Tue, 23 Apr 2024 03:37:51 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5678</guid>
+				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5678</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
