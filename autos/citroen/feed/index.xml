@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Citroën archivos - Grupo Automotríz</title>
+	<title>Citroën archivos - AUTONORTE</title>
 	<atom:link href="/autos/citroen/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/citroen/</link>
-	<description>Grupo Automotríz</description>
+	<description>AN</description>
 	<lastBuildDate>Wed, 03 Jul 2024 20:12:50 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
-	<title>Citroën archivos - Grupo Automotríz</title>
+	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
+	<title>Citroën archivos - AUTONORTE</title>
 	<link>/autos/citroen/</link>
 	<width>32</width>
 	<height>32</height>
@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:22:06 +0000</pubDate>
-				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5864</guid>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5864</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -47,7 +47,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:13:14 +0000</pubDate>
-				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5853</guid>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5853</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -61,7 +61,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 03:59:10 +0000</pubDate>
-				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5843</guid>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5843</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -75,7 +75,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 03:54:21 +0000</pubDate>
-				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5833</guid>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5833</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

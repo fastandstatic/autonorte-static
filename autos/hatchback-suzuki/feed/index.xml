@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Hatchback archivos - Grupo Automotríz</title>
+	<title>Hatchback archivos - AUTONORTE</title>
 	<atom:link href="/autos/hatchback-suzuki/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/hatchback-suzuki/</link>
-	<description>Grupo Automotríz</description>
+	<description>AN</description>
 	<lastBuildDate>Wed, 03 Jul 2024 14:51:19 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/03/cropped-logoCentral-32x32.png</url>
-	<title>Hatchback archivos - Grupo Automotríz</title>
+	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
+	<title>Hatchback archivos - AUTONORTE</title>
 	<link>/autos/hatchback-suzuki/</link>
 	<width>32</width>
 	<height>32</height>
@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:48:53 +0000</pubDate>
-				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5890</guid>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5890</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -47,7 +47,7 @@
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:31:07 +0000</pubDate>
-				<guid isPermaLink="false">https://autonorte.fastandstatic.com/?post_type=autos-nuevos&#038;p=5871</guid>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5871</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
