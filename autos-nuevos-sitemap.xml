@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-nuevos/</loc>
-		<lastmod>2024-08-06T18:41:57+00:00</lastmod>
+		<lastmod>2024-08-06T19:13:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos-nuevos/camion-gh8j-cargo/</loc>
@@ -404,13 +404,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/kona-gasolina/</loc>
-		<lastmod>2024-08-06T18:29:32+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/tucson/</loc>
 		<lastmod>2024-08-06T18:34:14+00:00</lastmod>
 		<image:image>
@@ -471,6 +464,13 @@
 		<lastmod>2024-08-06T18:41:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/palisade-exterior.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/kona-gasolina/</loc>
+		<lastmod>2024-08-06T19:13:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
