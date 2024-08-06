@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Sedan archivos - AUTONORTE</title>
+	<title>Sedan archivos - AN</title>
 	<atom:link href="/tipo-de-auto/sedan_new/feed/" rel="self" type="application/rss+xml" />
 	<link>/tipo-de-auto/sedan_new/</link>
-	<description>AN</description>
-	<lastBuildDate>Wed, 03 Jul 2024 14:36:41 +0000</lastBuildDate>
+	<description>AUTONORTE</description>
+	<lastBuildDate>Tue, 06 Aug 2024 18:38:53 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Sedan archivos - AUTONORTE</title>
+	<title>Sedan archivos - AN</title>
 	<link>/tipo-de-auto/sedan_new/</link>
 	<width>32</width>
 	<height>32</height>

@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-nuevos/</loc>
-		<lastmod>2024-07-09T19:48:19+00:00</lastmod>
+		<lastmod>2024-08-06T18:41:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos-nuevos/camion-gh8j-cargo/</loc>
@@ -138,24 +138,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/palisade/</loc>
-		<lastmod>2024-06-12T21:17:28+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/palisade-exterior.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/evoltis/</loc>
 		<lastmod>2024-06-12T21:17:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/voltis-2.4-Turbo-Limited_Auto_Website.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/tucson/</loc>
-		<lastmod>2024-06-12T21:18:24+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Tucson_New_Autonorte_New_0114.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -170,27 +156,6 @@
 		<lastmod>2024-06-12T21:19:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/C555_Autonorte_New_05.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/kona-hibrida-hev/</loc>
-		<lastmod>2024-06-12T21:20:18+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Kona-Hibrida-HEV_Autonorte_New_013.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/ioniq-5/</loc>
-		<lastmod>2024-06-12T21:52:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/ioni_5_img_Autonorte.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/venue/</loc>
-		<lastmod>2024-06-12T21:59:34+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -236,31 +201,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/gran-metrotaxi/</loc>
-		<lastmod>2024-06-12T22:09:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Gran-MEtro_taxi-copia_464w.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/staria/</loc>
-		<lastmod>2024-06-12T22:09:51+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Staria_Autonorte.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/pilot/</loc>
 		<lastmod>2024-06-25T17:07:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/Pilito_Autonorte_New_05-copia.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/kona-gasolina/</loc>
-		<lastmod>2024-06-26T19:49:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -317,20 +261,6 @@
 		<lastmod>2024-06-27T21:30:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/OUT-MINIATURA.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/kona-electrica/</loc>
-		<lastmod>2024-07-02T15:56:22+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/kkona_Autonorte_New_012.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/creta/</loc>
-		<lastmod>2024-07-02T15:58:13+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Creta_Autonorte_New_0111.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -471,6 +401,76 @@
 		<lastmod>2024-07-09T19:48:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/05/FOTO-MINUATURA-ESCAPE11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/kona-gasolina/</loc>
+		<lastmod>2024-08-06T18:29:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/tucson/</loc>
+		<lastmod>2024-08-06T18:34:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Tucson_New_Autonorte_New_0114.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/kona-electrica/</loc>
+		<lastmod>2024-08-06T18:36:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/kkona_Autonorte_New_012.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/staria/</loc>
+		<lastmod>2024-08-06T18:37:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Staria_Autonorte.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/gran-metrotaxi/</loc>
+		<lastmod>2024-08-06T18:38:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Gran-MEtro_taxi-copia_464w.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/ioniq-5/</loc>
+		<lastmod>2024-08-06T18:38:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/ioni_5_img_Autonorte.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/kona-hibrida-hev/</loc>
+		<lastmod>2024-08-06T18:39:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Kona-Hibrida-HEV_Autonorte_New_013.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/venue/</loc>
+		<lastmod>2024-08-06T18:40:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/creta/</loc>
+		<lastmod>2024-08-06T18:40:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Creta_Autonorte_New_0111.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/palisade/</loc>
+		<lastmod>2024-08-06T18:41:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/palisade-exterior.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>

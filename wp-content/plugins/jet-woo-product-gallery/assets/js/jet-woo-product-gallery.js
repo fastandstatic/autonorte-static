@@ -542,7 +542,8 @@
 						shareEl: settings.share ? settings.share : false,
 						counterEl: settings.counter ? settings.counter : false,
 						arrowEl: settings.arrows ? settings.arrows : false,
-						closeOnScroll: false
+						closeOnScroll: false,
+						history: false
 					};
 
 				if (settings.enableGallery) {

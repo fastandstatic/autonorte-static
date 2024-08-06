@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>SUV archivos - AUTONORTE</title>
+	<title>SUV archivos - AN</title>
 	<atom:link href="/autos/suv-citroen/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/suv-citroen/</link>
-	<description>AN</description>
+	<description>AUTONORTE</description>
 	<lastBuildDate>Wed, 03 Jul 2024 20:12:50 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>SUV archivos - AUTONORTE</title>
+	<title>SUV archivos - AN</title>
 	<link>/autos/suv-citroen/</link>
 	<width>32</width>
 	<height>32</height>
