@@ -10,9 +10,9 @@
 <channel>
 	<title>Autos Nuevos archivo - AN</title>
 	<atom:link href="/autos-nuevos/feed/" rel="self" type="application/rss+xml" />
-	<link>/autos-nuevos/</link>
+	<link></link>
 	<description>AUTONORTE</description>
-	<lastBuildDate>Tue, 06 Aug 2024 19:13:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Aug 2024 14:06:47 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
 	<title>Autos Nuevos archivo - AN</title>
-	<link>/autos-nuevos/</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 

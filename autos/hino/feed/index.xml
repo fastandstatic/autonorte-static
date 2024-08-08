@@ -10,7 +10,7 @@
 <channel>
 	<title>Hino archivos - AN</title>
 	<atom:link href="/autos/hino/feed/" rel="self" type="application/rss+xml" />
-	<link>/autos/hino/</link>
+	<link></link>
 	<description>AUTONORTE</description>
 	<lastBuildDate>Tue, 04 Jun 2024 15:25:43 +0000</lastBuildDate>
 	<language>es</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
 	<title>Hino archivos - AN</title>
-	<link>/autos/hino/</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 

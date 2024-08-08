@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-nuevos/</loc>
-		<lastmod>2024-08-06T19:13:55+00:00</lastmod>
+		<lastmod>2024-08-08T13:58:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos-nuevos/camion-gh8j-cargo/</loc>
@@ -264,13 +264,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/suzuki-vitara/</loc>
-		<lastmod>2024-07-03T14:34:13+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Creta_Autonorte_New_0111w.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/swift-dzire/</loc>
 		<lastmod>2024-07-03T14:36:41+00:00</lastmod>
 		<image:image>
@@ -404,31 +397,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/tucson/</loc>
-		<lastmod>2024-08-06T18:34:14+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Tucson_New_Autonorte_New_0114.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/kona-electrica/</loc>
-		<lastmod>2024-08-06T18:36:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/kkona_Autonorte_New_012.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/staria/</loc>
 		<lastmod>2024-08-06T18:37:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/Staria_Autonorte.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/gran-metrotaxi/</loc>
-		<lastmod>2024-08-06T18:38:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Gran-MEtro_taxi-copia_464w.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -453,13 +425,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/creta/</loc>
-		<lastmod>2024-08-06T18:40:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Creta_Autonorte_New_0111.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/palisade/</loc>
 		<lastmod>2024-08-06T18:41:57+00:00</lastmod>
 		<image:image>
@@ -467,8 +432,43 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/autos-nuevos/tucson/</loc>
+		<lastmod>2024-08-06T19:59:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Tucson_New_Autonorte_New_0114.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/creta/</loc>
+		<lastmod>2024-08-06T20:07:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Creta_Autonorte_New_0111.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/suzuki-vitara/</loc>
+		<lastmod>2024-08-06T20:09:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Creta_Autonorte_New_0111w.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/kona-electrica/</loc>
+		<lastmod>2024-08-06T21:05:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/kkona_Autonorte_New_012.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/grand-metro-taxi/</loc>
+		<lastmod>2024-08-06T22:09:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Gran-MEtro_taxi-copia_464w.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/autos-nuevos/kona-gasolina/</loc>
-		<lastmod>2024-08-06T19:13:55+00:00</lastmod>
+		<lastmod>2024-08-08T13:58:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
 		</image:image>

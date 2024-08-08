@@ -10,7 +10,7 @@
 <channel>
 	<title>Sedan archivos - AN</title>
 	<atom:link href="/autos/sedan-suzuki/feed/" rel="self" type="application/rss+xml" />
-	<link>/autos/sedan-suzuki/</link>
+	<link></link>
 	<description>AUTONORTE</description>
 	<lastBuildDate>Wed, 03 Jul 2024 14:36:41 +0000</lastBuildDate>
 	<language>es</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
 	<title>Sedan archivos - AN</title>
-	<link>/autos/sedan-suzuki/</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 

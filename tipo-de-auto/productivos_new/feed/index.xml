@@ -12,7 +12,7 @@
 	<atom:link href="/tipo-de-auto/productivos_new/feed/" rel="self" type="application/rss+xml" />
 	<link>/tipo-de-auto/productivos_new/</link>
 	<description>AUTONORTE</description>
-	<lastBuildDate>Tue, 06 Aug 2024 18:38:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Aug 2024 22:09:26 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -127,7 +127,7 @@
 			</item>
 		<item>
 		<title>Grand Metro Taxi</title>
-		<link>/autos-nuevos/gran-metrotaxi/</link>
+		<link>/autos-nuevos/grand-metro-taxi/</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 02:54:57 +0000</pubDate>
