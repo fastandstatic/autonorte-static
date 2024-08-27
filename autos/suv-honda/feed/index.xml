@@ -10,9 +10,9 @@
 <channel>
 	<title>SUV archivos - AN</title>
 	<atom:link href="/autos/suv-honda/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/autos/suv-honda/</link>
 	<description>AUTONORTE</description>
-	<lastBuildDate>Thu, 04 Jul 2024 15:08:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Aug 2024 22:15:34 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
 	<title>SUV archivos - AN</title>
-	<link></link>
+	<link>/autos/suv-honda/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

@@ -10,9 +10,9 @@
 <channel>
 	<title>Citroën archivos - AN</title>
 	<atom:link href="/autos/citroen/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/autos/citroen/</link>
 	<description>AUTONORTE</description>
-	<lastBuildDate>Wed, 03 Jul 2024 20:12:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Aug 2024 16:38:32 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
 	<title>Citroën archivos - AN</title>
-	<link></link>
+	<link>/autos/citroen/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

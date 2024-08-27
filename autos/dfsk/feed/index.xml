@@ -10,9 +10,9 @@
 <channel>
 	<title>DFSK archivos - AN</title>
 	<atom:link href="/autos/dfsk/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/autos/dfsk/</link>
 	<description>AUTONORTE</description>
-	<lastBuildDate>Wed, 05 Jun 2024 15:19:54 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Aug 2024 16:02:10 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
 	<title>DFSK archivos - AN</title>
-	<link></link>
+	<link>/autos/dfsk/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

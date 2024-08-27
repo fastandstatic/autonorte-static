@@ -10,7 +10,7 @@
 <channel>
 	<title>Hatchback archivos - AN</title>
 	<atom:link href="/autos/hatchback-suzuki/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/autos/hatchback-suzuki/</link>
 	<description>AUTONORTE</description>
 	<lastBuildDate>Wed, 03 Jul 2024 14:51:19 +0000</lastBuildDate>
 	<language>es</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
 	<title>Hatchback archivos - AN</title>
-	<link></link>
+	<link>/autos/hatchback-suzuki/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

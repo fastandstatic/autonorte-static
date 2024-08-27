@@ -10,9 +10,9 @@
 <channel>
 	<title>SUV archivos - AN</title>
 	<atom:link href="/autos/suv-subaru/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/autos/suv-subaru/</link>
 	<description>AUTONORTE</description>
-	<lastBuildDate>Wed, 03 Jul 2024 15:13:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Aug 2024 15:27:39 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
 	<title>SUV archivos - AN</title>
-	<link></link>
+	<link>/autos/suv-subaru/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
