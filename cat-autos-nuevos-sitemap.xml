@@ -41,6 +41,10 @@
 		<lastmod>2024-06-04T15:25:43+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/autos/sedan-subaru/</loc>
+		<lastmod>2024-06-27T19:17:14+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/autos/sedan-suzuki/</loc>
 		<lastmod>2024-09-03T16:03:27+00:00</lastmod>
 	</url>
@@ -57,12 +61,16 @@
 		<lastmod>2024-08-08T16:37:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/autos/sedan-subaru/</loc>
-		<lastmod>2024-06-27T19:17:14+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/autos/subaru/</loc>
 		<lastmod>2024-08-08T15:27:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/autos/suv-citroen/</loc>
+		<lastmod>2024-09-03T16:08:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/autos/suv/</loc>
+		<lastmod>2024-09-03T16:00:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos/suv-hyundai-2/</loc>
@@ -79,14 +87,6 @@
 	<url>
 		<loc>/autos/suv-honda/</loc>
 		<lastmod>2024-08-12T22:15:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos/suv-citroen/</loc>
-		<lastmod>2024-09-03T16:08:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos/suv/</loc>
-		<lastmod>2024-09-03T16:00:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos/suzuki/</loc>
