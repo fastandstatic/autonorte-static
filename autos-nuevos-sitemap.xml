@@ -183,13 +183,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/swift-dzire/</loc>
-		<lastmod>2024-07-03T14:36:41+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Swift-Dzire_Autonorte_New_01333333-11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/baleno-cross/</loc>
 		<lastmod>2024-07-03T14:51:19+00:00</lastmod>
 		<image:image>
@@ -208,13 +201,6 @@
 		<lastmod>2024-07-03T15:00:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/s-cross-4x4/</loc>
-		<lastmod>2024-07-03T15:01:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/S-Cross-interna-Plate-11.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -400,20 +386,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/c3/</loc>
-		<lastmod>2024-08-08T16:38:03+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c4/</loc>
-		<lastmod>2024-08-08T16:38:32+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/cr-v/</loc>
 		<lastmod>2024-08-12T22:12:08+00:00</lastmod>
 		<image:image>
@@ -467,6 +439,34 @@
 		<lastmod>2024-09-02T13:41:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/Staria_Autonorte.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/s-cross-4x4/</loc>
+		<lastmod>2024-09-03T16:00:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/S-Cross-interna-Plate-11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/swift-dzire/</loc>
+		<lastmod>2024-09-03T16:03:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Swift-Dzire_Autonorte_New_01333333-11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c4/</loc>
+		<lastmod>2024-09-03T16:06:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c3/</loc>
+		<lastmod>2024-09-03T16:08:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
