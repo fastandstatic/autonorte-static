@@ -274,24 +274,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/staria/</loc>
-		<lastmod>2024-08-06T18:37:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Staria_Autonorte.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/ioniq-5/</loc>
 		<lastmod>2024-08-06T18:38:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/ioni_5_img_Autonorte.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/kona-hibrida-hev/</loc>
-		<lastmod>2024-08-06T18:39:54+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Kona-Hibrida-HEV_Autonorte_New_013.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -330,24 +316,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/grand-metro-taxi/</loc>
-		<lastmod>2024-08-06T22:09:26+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Gran-MEtro_taxi-copia_464w.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/tucson/</loc>
 		<lastmod>2024-08-08T14:56:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/Tucson_New_Autonorte_New_0114.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/kona-gasolina/</loc>
-		<lastmod>2024-08-08T14:57:26+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -467,6 +439,34 @@
 		<lastmod>2024-08-12T22:15:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/07_LATERAL_RIGIDA_A_ADV_BLANCO_PLATINO_300.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/kona-hibrida-hev/</loc>
+		<lastmod>2024-09-02T13:37:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Kona-Hibrida-HEV_Autonorte_New_013.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/kona-gasolina/</loc>
+		<lastmod>2024-09-02T13:38:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/grand-metro-taxi/</loc>
+		<lastmod>2024-09-02T13:41:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Gran-MEtro_taxi-copia_464w.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/staria/</loc>
+		<lastmod>2024-09-02T13:41:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Staria_Autonorte.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
