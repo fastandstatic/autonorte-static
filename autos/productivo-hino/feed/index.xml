@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Productivos archivos - AN</title>
+	<title>Productivos archivos - AUTONORTE</title>
 	<atom:link href="/autos/productivo-hino/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/productivo-hino/</link>
-	<description>AUTONORTE</description>
+	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
 	<lastBuildDate>Tue, 04 Jun 2024 15:25:43 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Productivos archivos - AN</title>
+	<title>Productivos archivos - AUTONORTE</title>
 	<link>/autos/productivo-hino/</link>
 	<width>32</width>
 	<height>32</height>

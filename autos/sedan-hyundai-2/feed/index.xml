@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Sedan archivos - AN</title>
+	<title>Sedan archivos - AUTONORTE</title>
 	<atom:link href="/autos/sedan-hyundai-2/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/sedan-hyundai-2/</link>
-	<description>AUTONORTE</description>
+	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
 	<lastBuildDate>Tue, 06 Aug 2024 18:38:53 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Sedan archivos - AN</title>
+	<title>Sedan archivos - AUTONORTE</title>
 	<link>/autos/sedan-hyundai-2/</link>
 	<width>32</width>
 	<height>32</height>

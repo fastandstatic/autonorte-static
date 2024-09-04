@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Productivos archivos - AN</title>
+	<title>Productivos archivos - AUTONORTE</title>
 	<atom:link href="/tipo-de-auto/productivos_new/feed/" rel="self" type="application/rss+xml" />
 	<link>/tipo-de-auto/productivos_new/</link>
-	<description>AUTONORTE</description>
-	<lastBuildDate>Mon, 02 Sep 2024 13:41:32 +0000</lastBuildDate>
+	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
+	<lastBuildDate>Wed, 04 Sep 2024 16:53:21 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Productivos archivos - AN</title>
+	<title>Productivos archivos - AUTONORTE</title>
 	<link>/tipo-de-auto/productivos_new/</link>
 	<width>32</width>
 	<height>32</height>
@@ -127,7 +127,7 @@
 			</item>
 		<item>
 		<title>Grand Metro Taxi</title>
-		<link>/autos-nuevos/grand-metro-taxi/</link>
+		<link>/autos-nuevos/grand-metro-taxi2/</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 02:54:57 +0000</pubDate>

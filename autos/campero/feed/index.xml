@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Campero archivos - AN</title>
+	<title>Campero archivos - AUTONORTE</title>
 	<atom:link href="/autos/campero/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/campero/</link>
-	<description>AUTONORTE</description>
+	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
 	<lastBuildDate>Wed, 03 Jul 2024 14:57:02 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Campero archivos - AN</title>
+	<title>Campero archivos - AUTONORTE</title>
 	<link>/autos/campero/</link>
 	<width>32</width>
 	<height>32</height>

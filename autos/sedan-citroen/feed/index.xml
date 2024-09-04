@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Sedan archivos - AN</title>
+	<title>Sedan archivos - AUTONORTE</title>
 	<atom:link href="/autos/sedan-citroen/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/sedan-citroen/</link>
-	<description>AUTONORTE</description>
+	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
 	<lastBuildDate>Thu, 08 Aug 2024 16:37:08 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/04/FAVICON-LOGONEW-1-150x150.png</url>
-	<title>Sedan archivos - AN</title>
+	<title>Sedan archivos - AUTONORTE</title>
 	<link>/autos/sedan-citroen/</link>
 	<width>32</width>
 	<height>32</height>
