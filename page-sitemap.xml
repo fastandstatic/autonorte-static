@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-08-21T22:18:59+00:00</lastmod>
+		<lastmod>2024-09-06T16:34:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/14389-hino.png</image:loc>
 		</image:image>
@@ -162,8 +162,19 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/contactanos/</loc>
+		<lastmod>2024-08-30T16:11:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/sobre-nosotros-autonorte/</loc>
+		<lastmod>2024-09-03T17:03:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/09/Gente-AUTONORTE-1565x930px.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/vehiculos-nuevos/</loc>
-		<lastmod>2024-08-21T13:39:19+00:00</lastmod>
+		<lastmod>2024-09-06T16:34:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/Grupo-14389-hino-copial.png</image:loc>
 		</image:image>
@@ -190,17 +201,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Grupo-14397.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/contactanos/</loc>
-		<lastmod>2024-08-30T16:11:18+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/sobre-nosotros-autonorte/</loc>
-		<lastmod>2024-09-03T17:03:28+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/09/Gente-AUTONORTE-1565x930px.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
