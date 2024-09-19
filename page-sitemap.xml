@@ -112,37 +112,6 @@
 		<lastmod>2024-08-30T16:11:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/vehiculos-nuevos/</loc>
-		<lastmod>2024-09-06T16:34:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Grupo-14389-hino-copial.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Grupo-14389-suzkukicopial.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Grupo-14391.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Grupo-143892.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Grupo-14389022.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Grupo-14398.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Grupo-14389-hino.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Grupo-14396.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/03/Grupo-14397.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/cotizar-repuestos/</loc>
 		<lastmod>2024-09-10T18:39:14+00:00</lastmod>
 	</url>
@@ -204,6 +173,37 @@
 		<lastmod>2024-09-18T20:46:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/suzuki-2png-scaled.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/vehiculos-nuevos/</loc>
+		<lastmod>2024-09-19T20:19:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Grupo-14389-hino-copial.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Grupo-14389-suzkukicopial.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-14391.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Grupo-143892.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Grupo-14389022.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-14398.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Grupo-14389-hino.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-14396.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/Grupo-14397.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
