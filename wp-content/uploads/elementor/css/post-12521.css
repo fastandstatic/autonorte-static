@@ -1,1 +1,8 @@
-.elementor-12521 .elementor-element.elementor-element-c543bb9{--display:flex;--background-transition:0.3s;}
+.elementor-12521 .elementor-element.elementor-element-c543bb9{--display:flex;--background-transition:0.3s;}/* Start custom CSS for container, class: .elementor-element-c543bb9 */@media (max-width: 600px){
+    .all-filters > div {
+    width: 100%;
+}
+.all-filters {
+    flex-wrap: wrap !important;
+}
+}/* End custom CSS */
