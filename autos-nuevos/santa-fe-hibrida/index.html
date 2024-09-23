@@ -55,7 +55,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="elementor-global-css" href="/wp-content/uploads/elementor/css/global.css?ver=1727103220" media="all">
 <link rel="stylesheet" id="elementor-post-613-css" href="/wp-content/uploads/elementor/css/post-613.css?ver=1727103220" media="all">
 <link rel="stylesheet" id="elementor-post-12323-css" href="/wp-content/uploads/elementor/css/post-12323.css?ver=1727103227" media="all">
-<link rel="stylesheet" id="elementor-post-1411-css" href="/wp-content/uploads/elementor/css/post-1411.css?ver=1727103750" media="all">
+<link rel="stylesheet" id="elementor-post-1411-css" href="/wp-content/uploads/elementor/css/post-1411.css?ver=1727104355" media="all">
 <link rel="stylesheet" id="elementor-post-12299-css" href="/wp-content/uploads/elementor/css/post-12299.css?ver=1727103228" media="all">
 <link rel="stylesheet" id="elementor-post-12257-css" href="/wp-content/uploads/elementor/css/post-12257.css?ver=1727103221" media="all">
 <link rel="stylesheet" id="elementor-post-11706-css" href="/wp-content/uploads/elementor/css/post-11706.css?ver=1727103221" media="all">
@@ -635,6 +635,148 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 		</form>
 				</div>
 				</div>
+				<div class="elementor-element elementor-element-3d90ba5 elementor-widget elementor-widget-html" data-id="3d90ba5" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<script>
+(function ($) {
+    const formId = '#cotizar_auto_page';
+    const evento = 'Formulario landing';
+
+    const form = $(formId);
+    if (!form.length) {
+        console.error("No se encontró formulario con el ID");
+    } else {
+        // Agrega una función para la validación en tiempo real del campo de teléfono
+        const telefonoInput = form.find('[name="form_fields[chat_phone]"]');
+        telefonoInput.on('input', function () {
+            // Remueve cualquier carácter que no sea un número
+            let valorActual = $(this).val().replace(/\D/g, '');
+            // Asegura que el número comience con 3
+            if (!valorActual.startsWith('3')) {
+                valorActual = '3' + valorActual;
+            }
+            // Limita el número de dígitos a 10
+            if (valorActual.length > 10) {
+                valorActual = valorActual.substring(0, 10);
+            }
+            $(this).val(valorActual);
+        });
+
+        form.on('submit', function (e) {
+            e.preventDefault(); // Evita el envío del formulario por defecto
+
+            // Validar que el número de teléfono tenga 10 dígitos
+            const telefonoValor = telefonoInput.val();
+            if (telefonoValor.length !== 10) {
+                Swal.fire({
+                    title: "Error",
+                    text: "El número de teléfono debe tener exactamente 10 dígitos.",
+                    icon: "error",
+                    confirmButtonColor: "#d33",
+                    confirmButtonText: "Aceptar"
+                });
+                return; // Salir de la función para no enviar el formulario
+            }
+
+            // Cerrar el popup de Elementor si está abierto
+            const elementorPopup = $('.elementor-popup-modal');
+            if (elementorPopup.length) {
+                elementorPopup.fadeOut();
+            }
+
+            // Captura los datos del formulario
+            const formData = form.serializeArray();
+            const data = {};
+            formData.forEach((input) => {
+                data[input.name] = input.value;
+            });
+
+            // Agregar UTM parameters
+            const urlParams = new URLSearchParams(window.location.search);
+            const utm_source = urlParams.get('utm_source');
+            const utm_medium = urlParams.get('utm_medium');
+            const utm_campaign = urlParams.get('utm_campaign');
+            const utm_term = urlParams.get('utm_term');
+            const utm_content = urlParams.get('utm_content');
+
+            data['utm_source'] = utm_source;
+            data['utm_medium'] = utm_medium;
+            data['utm_campaign'] = utm_campaign;
+            data['utm_term'] = utm_term;
+            data['utm_content'] = utm_content;
+
+            // Muestra la alerta con la información del usuario
+            Swal.fire({
+                title: "¡Tu mensaje fue recibido!",
+                html: `
+                    <div style="text-align: left;">
+                        <p style="margin-bottom: 10px;"><strong>Gracias por contactarnos.<\/strong><\/p>
+                        <ul style="list-style-type: none; padding-left: 0;">
+                            <li><strong>Nombre Completo:<\/strong> ${data['form_fields[chat_name]']}<\/li>
+                            <li><strong>WhatsApp:<\/strong> ${data['form_fields[chat_phone]']}<\/li>
+                            <li><strong>Marca del Auto:<\/strong> ${data['form_fields[marca_auto]']}<\/li>
+                            <li><strong>Ciudad selecionada:<\/strong> ${data['form_fields[customer_city]']}<\/li>
+                            <li><strong>Preferencia de Pago:<\/strong> ${data['form_fields[metodo_pago]']}<\/li>
+                            <li><strong>Fecha estimada de compra:<\/strong> ${data['form_fields[fecha_compra]']}<\/li>
+                        <\/ul>
+                    <\/div>
+                `,
+                icon: "success",
+                confirmButtonColor: "#075E55",
+                confirmButtonText: "Continuar",
+                customClass: {
+                    container: 'swal-container',
+                    title: 'swal-title',
+                    content: 'swal-content',
+                    confirmButton: 'swal-confirm-button',
+                },
+                customContainerClass: 'swal-custom-container',
+                customCSS: {
+                    background: '#fff',
+                    border: '2px solid #ffff',
+                    borderRadius: '8px',
+                    color: '#26528F',
+                    fontFamily: 'Arial, sans-serif',
+                },
+            }).then((result) => {
+                // Ocultar el popup de Elementor Pro después de que se cierre la alerta
+                if (window.elementorProFrontend && window.elementorProFrontend.modules.popup) {
+                    const popup = window.elementorProFrontend.modules.popup.getPopupView();
+                    if (popup) {
+                        popup.hide();
+                    }
+                }
+            });
+
+            // Envía los datos del formulario por webhook
+            fetch('https://api.autonorte.com.co/roma-formulario-autos-nuevos', {
+                method: 'POST',
+                body: JSON.stringify(data),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Error al enviar los datos por el webhook');
+                }
+                return response.json();
+            })
+            .then(responseData => {
+                console.log('Respuesta del webhook:', responseData);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+    }
+})(jQuery);
+</script>
+		</div>
+				</div>
 				</div>
 				</div>
 				</div>
@@ -1119,178 +1261,6 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 				
 									</div>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-df1ac8e elementor-widget elementor-widget-html" data-id="df1ac8e" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
-<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-
-<script>
-(function ($) {
-    const formId = '#cotizar_auto_page';
-    const evento = 'Formulario landing';
-
-    const form = $(formId);
-    if (!form.length) {
-        console.error("No se encontró formulario con el ID");
-    } else {
-        // Agrega una función para la validación en tiempo real del campo de teléfono
-        const telefonoInput = form.find('[name="form_fields[chat_phone]"]');
-        telefonoInput.on('input', function () {
-            // Remueve cualquier carácter que no sea un número
-            let valorActual = $(this).val().replace(/\D/g, '');
-            // Asegura que el número comience con 3
-            if (!valorActual.startsWith('3')) {
-                valorActual = '3' + valorActual;
-            }
-            // Limita el número de dígitos a 10
-            if (valorActual.length > 10) {
-                valorActual = valorActual.substring(0, 10);
-            }
-            $(this).val(valorActual);
-        });
-
-        form.on('submit', function (e) {
-            e.preventDefault(); // Evita el envío del formulario por defecto
-
-            // Validar que el número de teléfono tenga 10 dígitos
-            const telefonoValor = telefonoInput.val();
-            if (telefonoValor.length !== 10) {
-                Swal.fire({
-                    title: "Error",
-                    text: "El número de teléfono debe tener exactamente 10 dígitos.",
-                    icon: "error",
-                    confirmButtonColor: "#d33",
-                    confirmButtonText: "Aceptar"
-                });
-                return; // Salir de la función para no enviar el formulario
-            }
-
-            // Cerrar el popup de Elementor si está abierto
-            const elementorPopup = $('.elementor-popup-modal');
-            if (elementorPopup.length) {
-                elementorPopup.fadeOut();
-            }
-
-            // Captura los datos del formulario
-            const formData = form.serializeArray();
-            const data = {};
-            formData.forEach((input) => {
-                data[input.name] = input.value;
-            });
-
-            // Agregar UTM parameters
-            const urlParams = new URLSearchParams(window.location.search);
-            const utm_source = urlParams.get('utm_source');
-            const utm_medium = urlParams.get('utm_medium');
-            const utm_campaign = urlParams.get('utm_campaign');
-            const utm_term = urlParams.get('utm_term');
-            const utm_content = urlParams.get('utm_content');
-
-            data['utm_source'] = utm_source;
-            data['utm_medium'] = utm_medium;
-            data['utm_campaign'] = utm_campaign;
-            data['utm_term'] = utm_term;
-            data['utm_content'] = utm_content;
-
-            // Muestra la alerta con la información del usuario
-            Swal.fire({
-                title: "¡Tu mensaje fue recibido!",
-                html: `
-                    <div style="text-align: left;">
-                        <p style="margin-bottom: 10px;"><strong>Gracias por contactarnos.<\/strong><\/p>
-                        <ul style="list-style-type: none; padding-left: 0;">
-                            <li><strong>Nombre Completo:<\/strong> ${data['form_fields[chat_name]']}<\/li>
-                            <li><strong>WhatsApp:<\/strong> ${data['form_fields[chat_phone]']}<\/li>
-                            <li><strong>Marca del Auto:<\/strong> ${data['form_fields[marca_auto]']}<\/li>
-                            <li><strong>Ciudad selecionada:<\/strong> ${data['form_fields[customer_city]']}<\/li>
-                            <li><strong>Preferencia de Pago:<\/strong> ${data['form_fields[metodo_pago]']}<\/li>
-                            <li><strong>Fecha estimada de compra:<\/strong> ${data['form_fields[fecha_compra]']}<\/li>
-                        <\/ul>
-                    <\/div>
-                `,
-                icon: "success",
-                confirmButtonColor: "#075E55",
-                confirmButtonText: "Continuar",
-                customClass: {
-                    container: 'swal-container',
-                    title: 'swal-title',
-                    content: 'swal-content',
-                    confirmButton: 'swal-confirm-button',
-                },
-                customContainerClass: 'swal-custom-container',
-                customCSS: {
-                    background: '#fff',
-                    border: '2px solid #ffff',
-                    borderRadius: '8px',
-                    color: '#26528F',
-                    fontFamily: 'Arial, sans-serif',
-                },
-            }).then((result) => {
-                // Ocultar el popup de Elementor Pro después de que se cierre la alerta
-                if (window.elementorProFrontend && window.elementorProFrontend.modules.popup) {
-                    const popup = window.elementorProFrontend.modules.popup.getPopupView();
-                    if (popup) {
-                        popup.hide();
-                    }
-                }
-            });
-
-            // Envía los datos del formulario por webhook
-            fetch('https://api.autonorte.com.co/roma-formulario-autos-nuevos', {
-                method: 'POST',
-                body: JSON.stringify(data),
-                headers: {
-                    'Content-Type': 'application/json'
-                }
-            })
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Error al enviar los datos por el webhook');
-                }
-                return response.json();
-            })
-            .then(responseData => {
-                console.log('Respuesta del webhook:', responseData);
-
-                // Enviar evento a Facebook Pixel con el ID específico
-                fbq('track', 'Lead', {
-                    content_name: 'Formulario Enviado',
-                    value: 1.00,
-                    currency: 'USD',
-                    eventID: '868007421429361' // Facebook Pixel ID
-                });
-
-                // Enviar evento a Google Analytics 4 con el ID específico
-                gtag('event', 'Formulario Enviado', {
-                    'send_to': 'G-L4E35LS899', // GA4 Measurement ID
-                    'event_category': 'Formulario',
-                    'event_label': 'Chat_whatsapp_enviado',
-                    'value': 1.00
-                });
-
-            })
-            .catch(error => {
-                console.error('Error:', error);
-            });
-
-            // Enviar evento a Google Analytics Universal cuando se envía el formulario de WhatsApp
-            gtag('event', 'Chat_whatsapp_enviado', {
-                'event_category': 'Formulario',
-                'event_label': 'Chat_whatsapp_enviado',
-            });
-
-            // Enviar evento al píxel de Facebook cuando se envía el formulario de WhatsApp
-            fbq('track', 'Chat_whatsapp_enviado', {
-                'event_category': 'Formulario',
-                'event_label': 'Chat_whatsapp_enviado',
-            });
-        });
-    }
-})(jQuery);
-
-</script>
-		</div>
 				</div>
 				</div>
 				</div>
