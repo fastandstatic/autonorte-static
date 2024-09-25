@@ -101,13 +101,6 @@
 		<lastmod>2024-06-14T20:31:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/usados-certificados/</loc>
-		<lastmod>2024-08-21T13:22:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/controlar-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/contactanos/</loc>
 		<lastmod>2024-08-30T16:11:18+00:00</lastmod>
 	</url>
@@ -204,6 +197,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Grupo-14397.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/usados-certificados/</loc>
+		<lastmod>2024-09-25T14:14:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/controlar-2.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
