@@ -73,7 +73,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="elementor-global-css" href="/wp-content/uploads/elementor/css/global.css?ver=1727966831" media="all">
 <link rel="stylesheet" id="elementor-post-613-css" href="/wp-content/uploads/elementor/css/post-613.css?ver=1727966831" media="all">
 <link rel="stylesheet" id="elementor-post-12323-css" href="/wp-content/uploads/elementor/css/post-12323.css?ver=1727967153" media="all">
-<link rel="stylesheet" id="elementor-post-1411-css" href="/wp-content/uploads/elementor/css/post-1411.css?ver=1727967154" media="all">
+<link rel="stylesheet" id="elementor-post-1411-css" href="/wp-content/uploads/elementor/css/post-1411.css?ver=1727993859" media="all">
 <link rel="stylesheet" id="elementor-post-12299-css" href="/wp-content/uploads/elementor/css/post-12299.css?ver=1727967154" media="all">
 <link rel="stylesheet" id="elementor-post-12257-css" href="/wp-content/uploads/elementor/css/post-12257.css?ver=1727966831" media="all">
 <link rel="stylesheet" id="elementor-post-11706-css" href="/wp-content/uploads/elementor/css/post-11706.css?ver=1727966831" media="all">
@@ -553,7 +553,7 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 				</div>
 				<div class="elementor-element elementor-element-5b4d8ba elementor-widget elementor-widget-heading" data-id="5b4d8ba" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"> $91.990.000</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">$91.990.000</h2>		</div>
 				</div>
 				</div>
 				</div>
@@ -592,12 +592,10 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 							</select>
 		</div>
 						</div>
-								<div class="elementor-field-type-dynamic_select elementor-field-group elementor-column elementor-field-group-customer_city elementor-col-100 elementor-sm-100 elementor-field-required">
-												<label for="form-field-customer_city" class="elementor-field-label elementor-screen-only">
-								Ciudad							</label>
-								<div class="elementor-field elementor-select-wrapper ">
-		<select name="form_fields[customer_city]" id="form-field-customer_city" class="elementor-field-textual elementor-size-xs" required="required" aria-required="true" data-options="{&quot;&quot;:[&quot;Selecciona la ciudad |&quot;],&quot;Hyundai&quot;:[&quot;Selecciona la ciudad |&quot;,&quot;Barranquilla&quot;,&quot;Cartagena&quot;,&quot;Santa Marta&quot;,&quot;Valledupar&quot;],&quot;Suzuki&quot;:[&quot;Selecciona la ciudad |&quot;,&quot;Barranquilla&quot;,&quot;Cartagena&quot;,&quot;Santa Marta&quot;,&quot;Valledupar&quot;],&quot;Citroën&quot;:[&quot;Selecciona la ciudad |&quot;,&quot;Barranquilla&quot;,&quot;Cartagena&quot;],&quot;Hino&quot;:[&quot;Selecciona la ciudad |&quot;,&quot;Barranquilla&quot;,&quot;Santa Marta&quot;],&quot;Subaru&quot;:[&quot;Selecciona la ciudad |&quot;,&quot;Barranquilla&quot;],&quot;DFSK&quot;:[&quot;Selecciona la ciudad |&quot;,&quot;Barranquilla&quot;,&quot;Santa Marta&quot;],&quot;Ford&quot;:[&quot;Selecciona la ciudad |&quot;,&quot;Santa Marta&quot;,&quot;Valledupar&quot;],&quot;Honda&quot;:[&quot;Selecciona la ciudad |&quot;,&quot;Santa Marta&quot;,&quot;Valledupar&quot;]}" data-field-id="marca_auto">
-		</select> </div> 				</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-customer_city elementor-col-100 elementor-sm-100">
+					<select id="form-field-customer_city" name="form_fields[customer_city]" class="elementor-field elementor-size-sm">
+    <option value="">Selecciona la ciudad</option>
+</select>				</div>
 								<div class="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-metodo_pago elementor-col-100 elementor-sm-100 elementor-field-required">
 												<label for="form-field-metodo_pago" class="elementor-field-label elementor-screen-only">
 								Preferencia de Pago							</label>
@@ -652,6 +650,64 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 			</div>
 		</form>
 				</div>
+				</div>
+				<div class="elementor-element elementor-element-3ff3758 elementor-widget elementor-widget-html" data-id="3ff3758" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script>document.addEventListener('DOMContentLoaded', function() {
+        // Obtener los elementos del select de marca y ciudad
+        var marcaAuto = document.querySelector('#form-field-marca_auto');
+        var customerCity = document.querySelector('#form-field-customer_city');
+        
+        // Crear el mapeo de las marcas con las ciudades correspondientes
+        var marcaCiudades = {
+            'Hyundai': ['Barranquilla', 'Cartagena', 'Santa Marta', 'Valledupar'],
+            'Suzuki': ['Barranquilla', 'Cartagena', 'Santa Marta', 'Valledupar'],
+            'Citroën': ['Barranquilla', 'Cartagena'],
+            'Hino': ['Barranquilla', 'Santa Marta'],
+            'Subaru': ['Barranquilla'],
+            'DFSK': ['Barranquilla', 'Santa Marta'],
+            'Ford': ['Santa Marta', 'Valledupar'],
+            'Honda': ['Santa Marta', 'Valledupar']
+        };
+
+        // Función para actualizar las opciones del select de ciudad
+        function updateCities() {
+            var selectedMarca = marcaAuto.value;
+            
+            // Limpiar las opciones del select de ciudad
+            customerCity.innerHTML = '';
+
+            // Si hay una marca seleccionada y existe en el mapeo
+            if (selectedMarca && marcaCiudades[selectedMarca]) {
+                // Agregar opción de "Selecciona la ciudad"
+                var defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = 'Selecciona la ciudad';
+                customerCity.appendChild(defaultOption);
+
+                // Agregar las ciudades correspondientes
+                marcaCiudades[selectedMarca].forEach(function(ciudad) {
+                    var option = document.createElement('option');
+                    option.value = ciudad;
+                    option.textContent = ciudad;
+                    customerCity.appendChild(option);
+                });
+            } else {
+                // Si no hay marca seleccionada, solo mostrar la opción por defecto
+                var defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = 'Selecciona la ciudad';
+                customerCity.appendChild(defaultOption);
+            }
+        }
+
+        // Escuchar los cambios en el select de marca
+        marcaAuto.addEventListener('change', updateCities);
+
+        // Inicializar las ciudades al cargar la página si ya hay una marca seleccionada
+        updateCities();
+    });</script>
+		</div>
 				</div>
 				<div class="elementor-element elementor-element-3d90ba5 elementor-widget elementor-widget-html" data-id="3d90ba5" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
