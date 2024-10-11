@@ -72,7 +72,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="elementor-global-css" href="/wp-content/uploads/elementor/css/global.css?ver=1728675120" media="all">
 <link rel="stylesheet" id="elementor-post-613-css" href="/wp-content/uploads/elementor/css/post-613.css?ver=1728675120" media="all">
 <link rel="stylesheet" id="elementor-post-12323-css" href="/wp-content/uploads/elementor/css/post-12323.css?ver=1728675231" media="all">
-<link rel="stylesheet" id="elementor-post-1411-css" href="/wp-content/uploads/elementor/css/post-1411.css?ver=1728675232" media="all">
+<link rel="stylesheet" id="elementor-post-1411-css" href="/wp-content/uploads/elementor/css/post-1411.css?ver=1728680533" media="all">
 <link rel="stylesheet" id="elementor-post-12299-css" href="/wp-content/uploads/elementor/css/post-12299.css?ver=1728675233" media="all">
 <link rel="stylesheet" id="elementor-post-12257-css" href="/wp-content/uploads/elementor/css/post-12257.css?ver=1728675121" media="all">
 <link rel="stylesheet" id="elementor-post-11706-css" href="/wp-content/uploads/elementor/css/post-11706.css?ver=1728675121" media="all">
@@ -561,7 +561,7 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 		<div class="elementor-element elementor-element-ced70f0 e-con-full e-flex e-con e-child" data-id="ced70f0" data-element_type="container">
 				<div class="elementor-element elementor-element-887f542 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="887f542" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
 				<div class="elementor-widget-container">
-					<form class="elementor-form" method="post" id="cotizar_auto_page" name="cotizar_auto_page">
+					<form class="elementor-form" method="post" id="cotizar_auto_single_page" name="cotizar_auto_single_page">
 			<input type="hidden" name="post_id" value="1411">
 			<input type="hidden" name="form_id" value="887f542">
 			<input type="hidden" name="referer_title" value="Camión Dutro Pack">
@@ -704,20 +704,26 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 				</div>
 				<div class="elementor-element elementor-element-3d90ba5 elementor-widget elementor-widget-html" data-id="3d90ba5" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
-<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+			<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
 
 <script>
 (function ($) {
-    const formId = '#cotizar_auto_page';
+    const formId = '#cotizar_auto_single_page';
     const evento = 'Formulario landing';
-
+    
+    const formDev = document.querySelector('#cotizar_auto_single_page');
+    console.log("Formulario encontrado:", formDev);
+    
     const form = $(formId);
+    console.log("Formulario:", form);
     if (!form.length) {
         console.error("No se encontró formulario con el ID");
     } else {
+        console.log("Se encontró formulario con el ID:");
         // Agrega una función para la validación en tiempo real del campo de teléfono
         const telefonoInput = form.find('[name="form_fields[chat_phone]"]');
+        console.log("Telefono:", telefonoInput);
         telefonoInput.on('input', function () {
             // Remueve cualquier carácter que no sea un número
             let valorActual = $(this).val().replace(/\D/g, '');
@@ -749,10 +755,12 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
             }
 
             // Cerrar el popup de Elementor si está abierto
-            const elementorPopup = $('.elementor-popup-modal');
+            /*
+            const elementorPopup = $('.elementor-popup-modal-12299');
             if (elementorPopup.length) {
                 elementorPopup.fadeOut();
             }
+            */
 
             // Captura los datos del formulario
             const formData = form.serializeArray();
@@ -794,28 +802,16 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
                 icon: "success",
                 confirmButtonColor: "#075E55",
                 confirmButtonText: "Continuar",
-                customClass: {
-                    container: 'swal-container',
-                    title: 'swal-title',
-                    content: 'swal-content',
-                    confirmButton: 'swal-confirm-button',
-                },
-                customContainerClass: 'swal-custom-container',
-                customCSS: {
-                    background: '#fff',
-                    border: '2px solid #ffff',
-                    borderRadius: '8px',
-                    color: '#26528F',
-                    fontFamily: 'Arial, sans-serif',
-                },
             }).then((result) => {
                 // Ocultar el popup de Elementor Pro después de que se cierre la alerta
+                /*
                 if (window.elementorProFrontend && window.elementorProFrontend.modules.popup) {
                     const popup = window.elementorProFrontend.modules.popup.getPopupView();
                     if (popup) {
                         popup.hide();
                     }
                 }
+                */
             });
 
             // Envía los datos del formulario por webhook
