@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-10-09T15:23:50+00:00</lastmod>
+		<lastmod>2024-10-12T16:18:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/14389-hino.png</image:loc>
 		</image:image>
@@ -34,13 +34,25 @@
 			<image:loc>/wp-content/uploads/2024/10/HYUNDAI-octubre_VENUE-Bquilla-P-1.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/SUZUKI-octubre_Fronx-GVitara-Bquilla-P.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/SUBARU-octubre-Evoltis-P-1.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/CITROEN-Octubre_C4-Bquilla-P.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/HONDA-octubre_CRV-Sta-Marta-P.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/Ford-octubre_Ranger-VAlledupar-P.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/10/DFSK-octubre-02.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/10/HINO-octubre_Minimula-P.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
