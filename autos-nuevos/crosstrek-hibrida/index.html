@@ -73,7 +73,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="elementor-global-css" href="/wp-content/uploads/elementor/css/global.css?ver=1729615946" media="all">
 <link rel="stylesheet" id="elementor-post-613-css" href="/wp-content/uploads/elementor/css/post-613.css?ver=1729615946" media="all">
 <link rel="stylesheet" id="elementor-post-12323-css" href="/wp-content/uploads/elementor/css/post-12323.css?ver=1729617521" media="all">
-<link rel="stylesheet" id="elementor-post-1411-css" href="/wp-content/uploads/elementor/css/post-1411.css?ver=1729617762" media="all">
+<link rel="stylesheet" id="elementor-post-1411-css" href="/wp-content/uploads/elementor/css/post-1411.css?ver=1729633155" media="all">
 <link rel="stylesheet" id="elementor-post-12299-css" href="/wp-content/uploads/elementor/css/post-12299.css?ver=1729617523" media="all">
 <link rel="stylesheet" id="elementor-post-12257-css" href="/wp-content/uploads/elementor/css/post-12257.css?ver=1729615947" media="all">
 <link rel="stylesheet" id="elementor-post-11706-css" href="/wp-content/uploads/elementor/css/post-11706.css?ver=1729615947" media="all">
@@ -644,66 +644,6 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 			</div>
 		</form>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-3ff3758 elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-html" data-id="3ff3758" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<script>document.addEventListener('DOMContentLoaded', function() {
-        // Obtener los elementos del select de marca y ciudad
-        var marcaAuto = document.querySelector('#form-field-marca_auto');
-        var customerCity = document.querySelector('#form-field-customer_city');
-
-        const marca_auto = document.getElementById('form-field-marca_auto');
-        const marcafinal = marca_auto.value;
-        console.log("Marca del auto:", marcafinal);
-        // Crear el mapeo de las marcas con las ciudades correspondientes
-        var marcaCiudades = {
-            'Hyundai': ['Barranquilla', 'Cartagena', 'Santa Marta', 'Valledupar'],
-            'Suzuki': ['Barranquilla', 'Cartagena', 'Santa Marta', 'Valledupar'],
-            'Citroën': ['Barranquilla', 'Cartagena'],
-            'Hino': ['Barranquilla', 'Santa Marta'],
-            'Subaru': ['Barranquilla'],
-            'DFSK': ['Barranquilla', 'Santa Marta'],
-            'Ford': ['Santa Marta', 'Valledupar'],
-            'Honda': ['Santa Marta', 'Valledupar']
-        };
-
-        // Función para actualizar las opciones del select de ciudad
-        function updateCities() {
-            var selectedMarca = marcaAuto.value;
-            // Limpiar las opciones del select de ciudad
-            customerCity.innerHTML = '';
-
-            // Si hay una marca seleccionada y existe en el mapeo
-            if (selectedMarca && marcaCiudades[selectedMarca]) {
-                // Agregar opción de "Selecciona la ciudad"
-                var defaultOption = document.createElement('option');
-                defaultOption.value = '';
-                defaultOption.textContent = 'Selecciona la ciudad';
-                customerCity.appendChild(defaultOption);
-
-                // Agregar las ciudades correspondientes
-                marcaCiudades[selectedMarca].forEach(function(ciudad) {
-                    var option = document.createElement('option');
-                    option.value = ciudad;
-                    option.textContent = ciudad;
-                    customerCity.appendChild(option);
-                });
-            } else {
-                // Si no hay marca seleccionada, solo mostrar la opción por defecto
-                var defaultOption = document.createElement('option');
-                defaultOption.value = '';
-                defaultOption.textContent = 'Selecciona la ciudad';
-                customerCity.appendChild(defaultOption);
-            }
-        }
-
-        // Escuchar los cambios en el select de marca
-        marcaAuto.addEventListener('change', updateCities);
-
-        // Inicializar las ciudades al cargar la página si ya hay una marca seleccionada
-        updateCities();
-    });</script>
-		</div>
 				</div>
 				<div class="elementor-element elementor-element-3d90ba5 elementor-widget elementor-widget-html" data-id="3d90ba5" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
@@ -1939,7 +1879,7 @@ Sector lote Bureche
             });
 
             // Envía los datos del formulario por webhook
-            fetch('https://hook.us1.make.com/mwklnp1u9c6b958qpl5mrhvltjbgtuy8', {
+            fetch('https://api.autonorte.com.co/roma-formulario-autos-nuevos', {
                 method: 'POST',
                 body: JSON.stringify(data),
                 headers: {
@@ -2882,7 +2822,7 @@ Sector lote Bureche
 				events.forEach( ( event ) => {
 					document.addEventListener( event, lazyloadRunObserver );
 				} );</script>
-			<link rel="stylesheet" id="elementor-post-2537-css" href="/wp-content/uploads/elementor/css/post-2537.css?ver=1729615947" media="all">
+			<link rel="stylesheet" id="elementor-post-2537-css" href="/wp-content/uploads/elementor/css/post-2537.css?ver=1729633018" media="all">
 <link rel="stylesheet" id="elementor-post-12294-css" href="/wp-content/uploads/elementor/css/post-12294.css?ver=1729618219" media="all">
 <script src="/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1" id="hello-theme-frontend-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=3.24.4" id="e-sticky-js"></script>
