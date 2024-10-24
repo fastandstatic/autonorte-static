@@ -12,16 +12,16 @@
 	<atom:link href="/autos/suzuki/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/suzuki/</link>
 	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
-	<lastBuildDate>Tue, 03 Sep 2024 16:03:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Oct 2024 22:48:34 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
+	<url>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
 	<title>Suzuki archivos - AUTONORTE</title>
 	<link>/autos/suzuki/</link>
 	<width>32</width>
@@ -104,20 +104,6 @@
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 04:31:07 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5871</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Vitara</title>
-		<link>/autos-nuevos/suzuki-vitara/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Tue, 09 Apr 2024 21:14:26 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=3531</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

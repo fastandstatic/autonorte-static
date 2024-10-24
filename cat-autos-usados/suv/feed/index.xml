@@ -12,16 +12,20 @@
 	<atom:link href="/cat-autos-usados/suv/feed/" rel="self" type="application/rss+xml" />
 	<link>/cat-autos-usados/suv/</link>
 	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
+<<<<<<< HEAD
 	<lastBuildDate>Tue, 10 Sep 2024 12:46:11 +0000</lastBuildDate>
+=======
+	<lastBuildDate>Tue, 22 Oct 2024 21:35:05 +0000</lastBuildDate>
+>>>>>>> dc602e2f061cbfd4af291269244b84ff1552d6d7
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
+	<url>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
 	<title>SUV archivos - AUTONORTE</title>
 	<link>/cat-autos-usados/suv/</link>
 	<width>32</width>

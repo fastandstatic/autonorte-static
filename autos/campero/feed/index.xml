@@ -12,16 +12,16 @@
 	<atom:link href="/autos/campero/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/campero/</link>
 	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
-	<lastBuildDate>Wed, 03 Jul 2024 14:57:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Oct 2024 22:48:34 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
+	<url>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
 	<title>Campero archivos - AUTONORTE</title>
 	<link>/autos/campero/</link>
 	<width>32</width>

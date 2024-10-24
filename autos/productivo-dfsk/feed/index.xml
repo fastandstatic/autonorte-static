@@ -12,16 +12,16 @@
 	<atom:link href="/autos/productivo-dfsk/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/productivo-dfsk/</link>
 	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
-	<lastBuildDate>Thu, 08 Aug 2024 16:02:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Oct 2024 13:53:37 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
+	<url>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
 	<title>Productivos archivos - AUTONORTE</title>
 	<link>/autos/productivo-dfsk/</link>
 	<width>32</width>

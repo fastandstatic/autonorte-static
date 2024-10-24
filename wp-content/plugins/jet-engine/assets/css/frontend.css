@@ -928,11 +928,14 @@ body.wp-admin.block-editor-page .jet-listing-grid__slider > .jet-listing-grid__i
   font-size: 0 !important;
 }
 
+<<<<<<< HEAD
 .e-con .elementor-widget.elementor-widget-jet-listing-grid {
   max-width: 100%;
   flex-basis: var(--container-widget-width, 100%);
 }
 
+=======
+>>>>>>> dc602e2f061cbfd4af291269244b84ff1552d6d7
 body[data-elementor-device-mode=desktop] .jet-listing-grid__scroll-slider-desktop {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;

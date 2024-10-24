@@ -12,22 +12,50 @@
 	<atom:link href="/autos-nuevos/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
-	<lastBuildDate>Mon, 02 Sep 2024 13:38:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Oct 2024 17:07:43 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
+	<url>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
 	<title>Autos Nuevos archivo - AUTONORTE</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Santa Fe Híbrida</title>
+		<link>/autos-nuevos/santa-fe-hibrida/</link>
+		
+		<dc:creator><![CDATA[centrodecontacto@autonorte.com.co]]></dc:creator>
+		<pubDate>Mon, 16 Sep 2024 22:56:41 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=12471</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Grand Metro Taxi Hatchback</title>
+		<link>/autos-nuevos/grand-metro-taxi-hatchback/</link>
+		
+		<dc:creator><![CDATA[centrodecontacto@autonorte.com.co]]></dc:creator>
+		<pubDate>Mon, 16 Sep 2024 21:39:39 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=12456</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Outback</title>
 		<link>/autos-nuevos/outback/</link>
 		
@@ -132,34 +160,6 @@
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 30 May 2024 21:03:42 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=10316</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Explorer</title>
-		<link>/autos-nuevos/explorer/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 20:27:40 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=10305</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Expedition</title>
-		<link>/autos-nuevos/expedition/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 19:52:57 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=10276</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
