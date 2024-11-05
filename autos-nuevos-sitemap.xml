@@ -197,13 +197,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/venue/</loc>
-		<lastmod>2024-08-06T18:40:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/creta/</loc>
 		<lastmod>2024-08-06T20:07:27+00:00</lastmod>
 		<image:image>
@@ -330,13 +323,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/grand-metro-taxi-hatchback/</loc>
-		<lastmod>2024-09-16T22:05:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/TAXI-MINIATURA.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/staria/</loc>
 		<lastmod>2024-09-27T17:00:54+00:00</lastmod>
 		<image:image>
@@ -383,13 +369,6 @@
 		<lastmod>2024-10-02T13:51:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Crosstrek-Hibrida_Autonorte221.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/k05s-luxury/</loc>
-		<lastmod>2024-10-02T13:53:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/K05S-Luxury_autonorte_img.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -463,17 +442,38 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/hb20-hatchback/</loc>
-		<lastmod>2024-10-09T14:36:45+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/HB20-Hatchback_Autonorte_New_01123.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/hb20s-sedan/</loc>
 		<lastmod>2024-10-09T15:09:35+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/HB20-Hatchback_Autonorte_New_0112v.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/k05s-luxury/</loc>
+		<lastmod>2024-11-05T14:45:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/K05S-Luxury_autonorte_img.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/grand-metro-taxi-hatchback/</loc>
+		<lastmod>2024-11-05T14:51:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/TAXI-MINIATURA.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/venue/</loc>
+		<lastmod>2024-11-05T14:53:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/hb20-hatchback/</loc>
+		<lastmod>2024-11-05T14:54:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/HB20-Hatchback_Autonorte_New_01123.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
