@@ -85,13 +85,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/swift-hibrido/</loc>
-		<lastmod>2024-06-12T22:07:36+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Swift-Hibrido_Autonorte_New_013.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/s-presso/</loc>
 		<lastmod>2024-06-12T22:09:33+00:00</lastmod>
 		<image:image>
@@ -131,20 +124,6 @@
 		<lastmod>2024-06-27T20:39:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/06/WRX-MINIATURA.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/baleno-cross/</loc>
-		<lastmod>2024-07-03T14:51:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/fronx/</loc>
-		<lastmod>2024-07-03T15:00:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -372,20 +351,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/jimny-5-puertas/</loc>
-		<lastmod>2024-10-03T22:48:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Jimny_GA_WEB-Verde1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/grand-vitara-hibrida/</loc>
-		<lastmod>2024-10-03T22:49:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Grand-Vitara-Hibrida_web786.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/kona-gasolina/</loc>
 		<lastmod>2024-10-04T15:20:46+00:00</lastmod>
 		<image:image>
@@ -474,6 +439,41 @@
 		<lastmod>2024-11-05T14:54:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/HB20-Hatchback_Autonorte_New_01123.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/grand-vitara-hibrida/</loc>
+		<lastmod>2024-11-05T15:23:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Grand-Vitara-Hibrida_web786.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/swift-hibrido/</loc>
+		<lastmod>2024-11-05T15:26:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Swift-Hibrido_Autonorte_New_013.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/fronx/</loc>
+		<lastmod>2024-11-05T15:27:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/jimny-5-puertas/</loc>
+		<lastmod>2024-11-05T15:27:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Jimny_GA_WEB-Verde1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/baleno-cross/</loc>
+		<lastmod>2024-11-05T15:28:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
