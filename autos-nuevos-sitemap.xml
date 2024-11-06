@@ -162,13 +162,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/expedition/</loc>
-		<lastmod>2024-07-09T19:47:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/EXPEDITION-MINIATURA1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/ioniq-5/</loc>
 		<lastmod>2024-08-06T18:38:53+00:00</lastmod>
 		<image:image>
@@ -323,13 +316,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/f-150-hibrida/</loc>
-		<lastmod>2024-10-01T22:54:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/F150-MINIATURA11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/mustang/</loc>
 		<lastmod>2024-10-01T22:55:52+00:00</lastmod>
 		<image:image>
@@ -355,13 +341,6 @@
 		<lastmod>2024-10-04T15:20:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/f-150/</loc>
-		<lastmod>2024-10-04T15:21:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/F150-MINIATURA11-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -474,6 +453,27 @@
 		<lastmod>2024-11-05T15:28:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/f-150/</loc>
+		<lastmod>2024-11-05T22:20:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/F150-MINIATURA11-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/f-150-hibrida/</loc>
+		<lastmod>2024-11-05T22:20:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/F150-MINIATURA11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/expedition/</loc>
+		<lastmod>2024-11-05T22:21:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/EXPEDITION-MINIATURA1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
