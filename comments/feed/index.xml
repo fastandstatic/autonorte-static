@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
-	<lastBuildDate>Thu, 07 Nov 2024 15:02:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Nov 2024 20:27:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 </channel>
 </rss>

@@ -12,13 +12,13 @@
 	<atom:link href="/autos/sedan-suzuki/feed/" rel="self" type="application/rss+xml" />
 	<link>/autos/sedan-suzuki/</link>
 	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
-	<lastBuildDate>Tue, 03 Sep 2024 16:03:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Nov 2024 20:27:53 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
@@ -27,19 +27,5 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Swift Dzire</title>
-		<link>/autos-nuevos/swift-dzire/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 04:43:48 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5881</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>

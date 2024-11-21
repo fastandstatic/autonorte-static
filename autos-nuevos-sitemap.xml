@@ -1,83 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/autos-nuevos/glory-580/</loc>
-		<lastmod>2024-06-04T14:56:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ooooi-removebg-preview.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c37-x9/</loc>
-		<lastmod>2024-06-04T15:08:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/c37x9exterior4desktop.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/k07s/</loc>
-		<lastmod>2024-06-04T15:10:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/k07sex2desktop.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c31/</loc>
-		<lastmod>2024-06-04T15:12:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C31CHASIS-FOTO-MODELO-DESKTOP.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/camion-gh8j-largo/</loc>
-		<lastmod>2024-06-04T15:16:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/GH8J.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/fc9j-camion/</loc>
-		<lastmod>2024-06-04T15:20:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/fcj9-camions.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/camion-fc9j-light/</loc>
-		<lastmod>2024-06-04T15:20:55+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/fcj9-camionl.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/camion-dutro-city/</loc>
-		<lastmod>2024-06-04T15:22:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Camion_Dutro_City_autornote.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/camion-dutro-pack/</loc>
-		<lastmod>2024-06-04T15:24:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/pack.webp.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/camion-dutro-pro/</loc>
-		<lastmod>2024-06-04T15:25:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/utro-PRO_Autonorte-copia.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c35/</loc>
-		<lastmod>2024-06-05T15:19:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/thumb-Cargo-Van-C35-370x220-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/city/</loc>
 		<lastmod>2024-06-05T17:12:21+00:00</lastmod>
 		<image:image>
@@ -141,20 +64,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/camion-dutro-hibrido/</loc>
-		<lastmod>2024-07-03T16:57:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Camion-Dutro-Hibrido_Autonorte.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/sg1a-minimula/</loc>
-		<lastmod>2024-07-03T17:04:55+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/minimula.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/ranger-raptor/</loc>
 		<lastmod>2024-07-09T19:45:11+00:00</lastmod>
 		<image:image>
@@ -194,13 +103,6 @@
 		<lastmod>2024-08-08T15:27:39+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/1-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/k01s/</loc>
-		<lastmod>2024-08-08T16:02:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/K01S-Banner-Modelo-Desktop-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -260,13 +162,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/swift-dzire/</loc>
-		<lastmod>2024-09-03T16:03:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Swift-Dzire_Autonorte_New_01333333-11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/c3/</loc>
 		<lastmod>2024-09-03T16:08:22+00:00</lastmod>
 		<image:image>
@@ -278,20 +173,6 @@
 		<lastmod>2024-09-06T16:39:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Lateral_Acero-Moderno_ZR-V.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/camion-gh8j-cargo/</loc>
-		<lastmod>2024-09-10T15:07:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Hino-GH8J-Cargo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/k05s-basic/</loc>
-		<lastmod>2024-09-10T15:14:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/k05sbasicexdesktop1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -393,13 +274,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/k05s-luxury/</loc>
-		<lastmod>2024-11-05T14:45:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/K05S-Luxury_autonorte_img.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/grand-metro-taxi-hatchback/</loc>
 		<lastmod>2024-11-05T14:51:54+00:00</lastmod>
 		<image:image>
@@ -474,6 +348,13 @@
 		<lastmod>2024-11-05T22:21:35+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/EXPEDITION-MINIATURA1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c3-aircross/</loc>
+		<lastmod>2024-11-20T20:27:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/SUV-Citroen-C3-Aircross-PNG.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

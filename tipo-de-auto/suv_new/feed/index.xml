@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-150x150.jpg</url>
@@ -28,20 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Glory 580</title>
-		<link>/autos-nuevos/glory-580/</link>
-		
-		<dc:creator><![CDATA[eme]]></dc:creator>
-		<pubDate>Thu, 25 Apr 2024 06:45:11 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=6037</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Evoltis</title>
 		<link>/autos-nuevos/evoltis/</link>
 		
@@ -160,6 +146,20 @@
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 25 Apr 2024 03:34:56 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5804</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WR-V</title>
+		<link>/autos-nuevos/wr-v/</link>
+		
+		<dc:creator><![CDATA[eme]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2024 03:26:09 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=5794</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
