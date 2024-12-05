@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/autos-nuevos/city/</loc>
-		<lastmod>2024-06-05T17:12:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/city_Autonorte_New_05-copia.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/s-presso/</loc>
 		<lastmod>2024-06-12T22:09:33+00:00</lastmod>
 		<image:image>
@@ -190,20 +183,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/wr-v/</loc>
-		<lastmod>2024-10-07T15:37:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/WR-V_Autonorte_New_05-copia.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/cr-v/</loc>
-		<lastmod>2024-10-07T15:38:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/AZULALMIRANTE.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/hb20s-sedan/</loc>
 		<lastmod>2024-10-09T15:09:35+00:00</lastmod>
 		<image:image>
@@ -358,8 +337,22 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/autos-nuevos/cr-v/</loc>
+		<lastmod>2024-12-04T22:42:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/AZULALMIRANTE.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/city/</loc>
+		<lastmod>2024-12-04T22:44:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/city_Autonorte_New_05-copia.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/autos-nuevos/13012/</loc>
-		<lastmod>2024-12-04T22:03:59+00:00</lastmod>
+		<lastmod>2024-12-05T15:10:04+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/Tucson_New_Autonorte_New_01142.png</image:loc>
 		</image:image>
