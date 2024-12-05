@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/autos-usados/renault-duster-3/</loc>
-		<lastmod>2024-06-26T21:47:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/DUSTER-3.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/suzuki-grand-vitara/</loc>
 		<lastmod>2024-06-26T21:48:31+00:00</lastmod>
 		<image:image>
@@ -134,13 +127,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/citroen-c3-shine/</loc>
-		<lastmod>2024-10-30T22:06:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-18-at-9.23.26-AM-scaled.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/citroen-c4-shine/</loc>
 		<lastmod>2024-10-31T16:09:19+00:00</lastmod>
 		<image:image>
@@ -155,8 +141,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/autos-usados/renault-duster-3/</loc>
+		<lastmod>2024-12-03T21:24:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/DUSTER-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/autos-usados/bmw-420i-grand-coupe/</loc>
-		<lastmod>2024-12-03T14:24:56+00:00</lastmod>
+		<lastmod>2024-12-03T22:51:31+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/BMW-2-1.jpg</image:loc>
 		</image:image>

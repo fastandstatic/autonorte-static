@@ -22,31 +22,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/explorer/</loc>
-		<lastmod>2024-06-26T20:03:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/EXPLORER-MINI-11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/bronco/</loc>
-		<lastmod>2024-06-26T20:08:09+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/BRONCO-4X4.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/wrx-sedan/</loc>
 		<lastmod>2024-06-27T19:17:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/WRX-Sedan.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/wrx-performance/</loc>
-		<lastmod>2024-06-27T20:39:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/06/WRX-MINIATURA.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -68,13 +47,6 @@
 		<lastmod>2024-07-09T19:45:11+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/RANGER-MINIATURA-RAPTOR11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/ioniq-5/</loc>
-		<lastmod>2024-08-06T18:38:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioni_5_img_Autonorte.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -134,13 +106,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/escape-hibrida/</loc>
-		<lastmod>2024-08-12T22:12:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/FOTO-MINUATURA1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/hr-v/</loc>
 		<lastmod>2024-08-12T22:15:34+00:00</lastmod>
 		<image:image>
@@ -183,13 +148,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/palisade/</loc>
-		<lastmod>2024-10-01T22:40:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/palisade-exterior.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/mustang/</loc>
 		<lastmod>2024-10-01T22:55:52+00:00</lastmod>
 		<image:image>
@@ -208,20 +166,6 @@
 		<lastmod>2024-10-02T13:51:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Crosstrek-Hibrida_Autonorte221.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/kona-gasolina/</loc>
-		<lastmod>2024-10-04T15:20:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/grand-metro-taxi2/</loc>
-		<lastmod>2024-10-04T16:46:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Gran-MEtro_taxi-copia_464w.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -358,8 +302,64 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/autos-nuevos/grand-metro-taxi2/</loc>
+		<lastmod>2024-12-03T17:17:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Gran-MEtro_taxi-copia_464w.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/palisade/</loc>
+		<lastmod>2024-12-03T19:33:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/palisade-exterior.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/ioniq-5/</loc>
+		<lastmod>2024-12-03T19:34:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioni_5_img_Autonorte.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/kona-gasolina/</loc>
+		<lastmod>2024-12-03T19:36:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/escape-hibrida/</loc>
+		<lastmod>2024-12-03T19:42:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/FOTO-MINUATURA1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/bronco/</loc>
+		<lastmod>2024-12-03T19:44:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/BRONCO-4X4.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/explorer/</loc>
+		<lastmod>2024-12-03T19:45:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/EXPLORER-MINI-11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/wrx-performance/</loc>
+		<lastmod>2024-12-04T15:15:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/06/WRX-MINIATURA.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/autos-nuevos/13012/</loc>
-		<lastmod>2024-12-03T16:04:50+00:00</lastmod>
+		<lastmod>2024-12-04T22:03:59+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/Tucson_New_Autonorte_New_01142.png</image:loc>
 		</image:image>
