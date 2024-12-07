@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-11-28T21:04:12+00:00</lastmod>
+		<lastmod>2024-12-06T22:50:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/14389-hino.png</image:loc>
 		</image:image>
@@ -25,22 +25,16 @@
 			<image:loc>/wp-content/uploads/2024/11/Logo-USADOS-120x120px-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/HYUNDAI-noviembre_Kona-Hib-Bquilla-P-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/SUZUKI-diciembre_Scross-Bquilla-P.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/SUZUKI-noviembre_Grand-Vitara-Bquilla-P-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/HYUNDAI-diciembre_Kona-Hib-Bquilla-P-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/CITROEN-noviembre_Aircross-Bquilla-P-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/CRV-HONDA-SALE-dic-P.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/SUBARU-noviembre_Forester-P-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/HONDA-noviembre_HRV-Santa-Marta-P-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/Ford-noviembre_Ranger-Santa-Marta-P.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/12/CITROEN-diciembre_C3-Quilla-P.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
