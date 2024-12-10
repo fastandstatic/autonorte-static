@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/autos-nuevos/s-presso/</loc>
-		<lastmod>2024-06-12T22:09:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/S-presso_Autonorte_img_S-presso_01.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/jimny/</loc>
 		<lastmod>2024-06-26T19:51:00+00:00</lastmod>
 		<image:image>
@@ -78,13 +71,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/c5/</loc>
-		<lastmod>2024-08-08T16:36:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C555_Autonorte_New_05.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/c-elysee/</loc>
 		<lastmod>2024-08-08T16:37:08+00:00</lastmod>
 		<image:image>
@@ -110,13 +96,6 @@
 		<lastmod>2024-09-02T13:37:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Kona-Hibrida-HEV_Autonorte_New_013.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/s-cross-4x4/</loc>
-		<lastmod>2024-09-03T16:00:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/S-Cross-interna-Plate-11.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -169,13 +148,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/c4/</loc>
-		<lastmod>2024-10-04T19:36:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/pilot/</loc>
 		<lastmod>2024-10-07T15:36:18+00:00</lastmod>
 		<image:image>
@@ -211,13 +183,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/grand-vitara-hibrida/</loc>
-		<lastmod>2024-11-05T15:23:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Grand-Vitara-Hibrida_web786.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/swift-hibrido/</loc>
 		<lastmod>2024-11-05T15:26:28+00:00</lastmod>
 		<image:image>
@@ -225,24 +190,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/fronx/</loc>
-		<lastmod>2024-11-05T15:27:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/jimny-5-puertas/</loc>
 		<lastmod>2024-11-05T15:27:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Jimny_GA_WEB-Verde1-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/baleno-cross/</loc>
-		<lastmod>2024-11-05T15:28:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -271,13 +222,6 @@
 		<lastmod>2024-11-25T15:59:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/C3aircross_Autonorte_.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c3/</loc>
-		<lastmod>2024-11-25T16:16:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -355,6 +299,55 @@
 		<lastmod>2024-12-05T15:10:04+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/Tucson_New_Autonorte_New_01142.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c5/</loc>
+		<lastmod>2024-12-10T15:12:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C555_Autonorte_New_05.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c4/</loc>
+		<lastmod>2024-12-10T15:15:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c3/</loc>
+		<lastmod>2024-12-10T15:17:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/grand-vitara-hibrida/</loc>
+		<lastmod>2024-12-10T15:20:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Grand-Vitara-Hibrida_web786.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/s-cross-4x4/</loc>
+		<lastmod>2024-12-10T15:23:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/S-Cross-interna-Plate-11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/fronx/</loc>
+		<lastmod>2024-12-10T15:24:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/baleno-cross/</loc>
+		<lastmod>2024-12-10T15:25:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
