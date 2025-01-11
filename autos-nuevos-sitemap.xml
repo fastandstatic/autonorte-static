@@ -64,24 +64,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/ranger/</loc>
-		<lastmod>2024-08-08T16:33:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/RANGER-MINIATURA11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/c-elysee/</loc>
 		<lastmod>2024-08-08T16:37:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/elysee-shine-gris-ext-360-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/escape/</loc>
-		<lastmod>2024-08-12T22:12:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/FOTO-MINUATURA-ESCAPE11.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -155,13 +141,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/hb20s-sedan/</loc>
-		<lastmod>2024-10-09T15:09:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/HB20-Hatchback_Autonorte_New_0112v.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/grand-metro-taxi-hatchback/</loc>
 		<lastmod>2024-11-05T14:51:54+00:00</lastmod>
 		<image:image>
@@ -183,13 +162,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/swift-hibrido/</loc>
-		<lastmod>2024-11-05T15:26:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Swift-Hibrido_Autonorte_New_013.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/jimny-5-puertas/</loc>
 		<lastmod>2024-11-05T15:27:49+00:00</lastmod>
 		<image:image>
@@ -201,13 +173,6 @@
 		<lastmod>2024-11-05T22:20:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/F150-MINIATURA11-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/f-150-hibrida/</loc>
-		<lastmod>2024-11-05T22:20:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/F150-MINIATURA11.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -243,13 +208,6 @@
 		<lastmod>2024-12-03T19:34:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioni_5_img_Autonorte.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/kona-gasolina/</loc>
-		<lastmod>2024-12-03T19:36:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -302,20 +260,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/c5/</loc>
-		<lastmod>2024-12-10T15:12:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C555_Autonorte_New_05.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c4/</loc>
-		<lastmod>2024-12-10T15:15:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/c3/</loc>
 		<lastmod>2024-12-10T15:17:26+00:00</lastmod>
 		<image:image>
@@ -337,17 +281,80 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/autos-nuevos/baleno-cross/</loc>
+		<lastmod>2024-12-10T15:25:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/s-cross-hibrida/</loc>
+		<lastmod>2024-12-10T21:03:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/12/S-Cross-interna-azul.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c5/</loc>
+		<lastmod>2025-01-03T20:25:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C555_Autonorte_New_05.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c4/</loc>
+		<lastmod>2025-01-03T20:26:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/swift-hibrido/</loc>
+		<lastmod>2025-01-03T21:33:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Swift-Hibrido_Autonorte_New_013.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/autos-nuevos/fronx/</loc>
-		<lastmod>2024-12-10T15:24:04+00:00</lastmod>
+		<lastmod>2025-01-03T21:33:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/baleno-cross/</loc>
-		<lastmod>2024-12-10T15:25:28+00:00</lastmod>
+		<loc>/autos-nuevos/kona-gasolina/</loc>
+		<lastmod>2025-01-03T21:35:42+00:00</lastmod>
 		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/06/KONA-GASOLINA-MINIATURA.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/hb20s-sedan/</loc>
+		<lastmod>2025-01-03T21:36:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/HB20-Hatchback_Autonorte_New_0112v.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/f-150-hibrida/</loc>
+		<lastmod>2025-01-03T21:39:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/F150-MINIATURA11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/escape/</loc>
+		<lastmod>2025-01-03T21:40:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/FOTO-MINUATURA-ESCAPE11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/ranger/</loc>
+		<lastmod>2025-01-03T21:42:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/RANGER-MINIATURA11.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

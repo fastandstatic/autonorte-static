@@ -12,7 +12,7 @@
 	<atom:link href="/autos-nuevos/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Concesionario Oficial &#124; Venta de Automóviles Nuevos y Usados &#124; Servicio de Taller y Repuestos</description>
-	<lastBuildDate>Thu, 05 Dec 2024 15:10:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jan 2025 21:39:36 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>S-cross Híbrida</title>
+		<link>/autos-nuevos/s-cross-hibrida/</link>
+		
+		<dc:creator><![CDATA[centrodecontacto@autonorte.com.co]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 20:58:26 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=13049</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Tucson Híbrida</title>
 		<link>/autos-nuevos/13012/</link>
 		
@@ -146,20 +160,6 @@
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 30 May 2024 22:29:53 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=10351</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>F -150</title>
-		<link>/autos-nuevos/f-150/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 30 May 2024 22:08:21 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=autos-nuevos#038;p=10342</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
