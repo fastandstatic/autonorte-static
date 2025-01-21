@@ -8,13 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/hyundai-santafe-premium/</loc>
-		<lastmod>2024-08-15T19:15:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/SANTA-FE-7.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/toyota-fortuner/</loc>
 		<lastmod>2024-08-15T19:38:37+00:00</lastmod>
 		<image:image>
@@ -117,6 +110,20 @@
 		<lastmod>2025-01-21T17:27:24+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/kia-sportage-minuatura.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/hyundai-santafe-premium/</loc>
+		<lastmod>2025-01-21T20:28:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/santa-fe-miniatura.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/subaru-crosstrek-premium-hibrida/</loc>
+		<lastmod>2025-01-21T20:31:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/subaru-crostrek-miniatura.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
