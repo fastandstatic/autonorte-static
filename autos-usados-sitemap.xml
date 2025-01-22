@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/autos-usados/toyota-fortuner/</loc>
-		<lastmod>2024-08-15T19:38:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/TOYOTA-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/mercedes-benz-glc-220d/</loc>
-		<lastmod>2024-08-29T20:11:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/MERCE-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/suzuki-grand-vitara/</loc>
 		<lastmod>2024-12-11T20:45:50+00:00</lastmod>
 		<image:image>
@@ -92,13 +78,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/peugeot-2008-allure/</loc>
-		<lastmod>2025-01-21T15:30:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/pegout-2008.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/kia-sportage/</loc>
 		<lastmod>2025-01-21T17:27:24+00:00</lastmod>
 		<image:image>
@@ -131,6 +110,27 @@
 		<lastmod>2025-01-22T14:55:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/mercedes-mini.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/mercedes-benz-glc-220d/</loc>
+		<lastmod>2025-01-22T15:00:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/mercedes-benz-glc220d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/toyota-fortuner/</loc>
+		<lastmod>2025-01-22T16:26:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/TOYOTA-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/peugeot-2008-allure/</loc>
+		<lastmod>2025-01-22T16:27:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/pegout-2008.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
