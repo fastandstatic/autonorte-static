@@ -29,13 +29,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/ford-ecosport/</loc>
-		<lastmod>2025-01-16T21:53:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/miniatura.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/ford-fiesta/</loc>
 		<lastmod>2025-01-16T22:01:44+00:00</lastmod>
 		<image:image>
@@ -92,43 +85,50 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/subaru-crosstrek-premium-hibrida/</loc>
-		<lastmod>2025-01-21T20:31:02+00:00</lastmod>
+		<loc>/autos-usados/ford-ecosport/</loc>
+		<lastmod>2025-01-22T21:14:51+00:00</lastmod>
 		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/subaru-crostrek-miniatura.jpg</image:loc>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/miniatura.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/autos-usados/peugeot-207-compact/</loc>
-		<lastmod>2025-01-22T14:53:00+00:00</lastmod>
+		<lastmod>2025-01-22T21:16:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/207.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/mercedes-benz-glc-220d/</loc>
-		<lastmod>2025-01-22T15:00:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/mercedes-benz-glc220d.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/toyota-fortuner/</loc>
-		<lastmod>2025-01-22T16:26:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/TOYOTA-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/peugeot-2008-allure/</loc>
-		<lastmod>2025-01-22T16:27:43+00:00</lastmod>
+		<lastmod>2025-01-22T21:16:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/pegout-2008.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/autos-usados/toyota-fortuner/</loc>
+		<lastmod>2025-01-22T21:18:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/TOYOTA-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/mercedes-benz-glc-220d/</loc>
+		<lastmod>2025-01-22T21:18:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/mercedes-benz-glc220d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/subaru-crosstrek-premium-hibrida/</loc>
+		<lastmod>2025-01-22T21:18:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/subaru-crostrek-miniatura.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/autos-usados/mercedes-cla-200/</loc>
-		<lastmod>2025-01-22T20:10:21+00:00</lastmod>
+		<lastmod>2025-01-22T21:19:24+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/mercedes-mini.jpg</image:loc>
 		</image:image>
