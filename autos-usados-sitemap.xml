@@ -92,34 +92,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/peugeot-207-compact/</loc>
-		<lastmod>2025-01-22T21:16:09+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/207.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/peugeot-2008-allure/</loc>
-		<lastmod>2025-01-22T21:16:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/pegout-2008.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/toyota-fortuner/</loc>
-		<lastmod>2025-01-22T21:18:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/TOYOTA-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/mercedes-benz-glc-220d/</loc>
-		<lastmod>2025-01-22T21:18:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/mercedes-benz-glc220d.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/subaru-crosstrek-premium-hibrida/</loc>
 		<lastmod>2025-01-22T21:18:39+00:00</lastmod>
 		<image:image>
@@ -131,6 +103,48 @@
 		<lastmod>2025-01-22T21:19:24+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/mercedes-mini.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/peugeot-2008-allure/</loc>
+		<lastmod>2025-01-22T21:52:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/pegout-2008.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/peugeot-207-compact/</loc>
+		<lastmod>2025-01-22T21:53:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/207.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/subaru-forester-hibrida/</loc>
+		<lastmod>2025-01-22T23:00:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/subaru-mini.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/toyota-fortuner/</loc>
+		<lastmod>2025-01-22T23:00:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/TOYOTA-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/mercedes-benz-glc-220d/</loc>
+		<lastmod>2025-01-22T23:00:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/mercedes-benz-glc220d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/hyundai-tucson-limited/</loc>
+		<lastmod>2025-01-23T15:11:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/hyundai-tucson-mini.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
