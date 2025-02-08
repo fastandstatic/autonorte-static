@@ -64,13 +64,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/c-elysee/</loc>
-		<lastmod>2024-08-08T16:37:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/elysee-shine-gris-ext-360-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/hr-v/</loc>
 		<lastmod>2024-08-12T22:15:34+00:00</lastmod>
 		<image:image>
@@ -148,24 +141,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/venue/</loc>
-		<lastmod>2024-11-05T14:53:36+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/hb20-hatchback/</loc>
 		<lastmod>2024-11-05T14:54:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/HB20-Hatchback_Autonorte_New_01123.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/jimny-5-puertas/</loc>
-		<lastmod>2024-11-05T15:27:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Jimny_GA_WEB-Verde1-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -218,13 +197,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/bronco/</loc>
-		<lastmod>2024-12-03T19:44:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/BRONCO-4X4.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/explorer/</loc>
 		<lastmod>2024-12-03T19:45:09+00:00</lastmod>
 		<image:image>
@@ -253,20 +225,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/13012/</loc>
-		<lastmod>2024-12-05T15:10:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/Tucson_New_Autonorte_New_01142.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c3/</loc>
-		<lastmod>2024-12-10T15:17:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/grand-vitara-hibrida/</loc>
 		<lastmod>2024-12-10T15:20:58+00:00</lastmod>
 		<image:image>
@@ -288,31 +246,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/s-cross-hibrida/</loc>
-		<lastmod>2024-12-10T21:03:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/12/S-Cross-interna-azul.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/c5/</loc>
 		<lastmod>2025-01-03T20:25:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C555_Autonorte_New_05.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c4/</loc>
-		<lastmod>2025-01-03T20:26:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/swift-hibrido/</loc>
-		<lastmod>2025-01-03T21:33:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Swift-Hibrido_Autonorte_New_013.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -355,6 +292,62 @@
 		<lastmod>2025-01-03T21:42:03+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/RANGER-MINIATURA11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/venue/</loc>
+		<lastmod>2025-02-03T20:15:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/13012/</loc>
+		<lastmod>2025-02-03T20:16:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/Tucson_New_Autonorte_New_01142.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/s-cross-hibrida/</loc>
+		<lastmod>2025-02-05T14:29:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/12/S-Cross-interna-azul.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/jimny-5-puertas/</loc>
+		<lastmod>2025-02-05T14:36:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Jimny_GA_WEB-Verde1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/swift-hibrido/</loc>
+		<lastmod>2025-02-05T14:42:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Swift-Hibrido_Autonorte_New_013.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c3/</loc>
+		<lastmod>2025-02-05T14:46:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c4/</loc>
+		<lastmod>2025-02-05T14:49:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/bronco/</loc>
+		<lastmod>2025-02-06T20:10:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/BRONCO-4X4.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
