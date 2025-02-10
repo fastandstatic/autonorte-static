@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-10T15:14:34+00:00</lastmod>
+		<lastmod>2025-02-10T17:08:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/14389-hino.png</image:loc>
 		</image:image>
@@ -14,9 +14,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/Grupo-143892.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/Grupo-14389022.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/Grupo-14398.png</image:loc>
