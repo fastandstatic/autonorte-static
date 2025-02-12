@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-10T17:08:04+00:00</lastmod>
+		<lastmod>2025-02-11T20:14:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/14389-hino.png</image:loc>
 		</image:image>
@@ -22,13 +22,19 @@
 			<image:loc>/wp-content/uploads/2024/11/Logo-USADOS-120x120px-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/HYUNDAI-febrero_Kona-Hib-Bquilla-P-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/02/HYUNDAI-febrero_Kona-Hib-Bquilla-P-2.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/SUZUKI-febrero_Yimny-5p-Bquilla-P.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/CITROEN-febrero_Aircoss-Bquilla-P.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/Ford-febrero_Explorer-Santa-Marta-P.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/HONDA-Febrero-Valle-HRV-P.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
