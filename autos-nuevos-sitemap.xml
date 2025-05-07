@@ -8,13 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/kona-hibrida-hev/</loc>
-		<lastmod>2024-09-02T13:37:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Kona-Hibrida-HEV_Autonorte_New_013.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/mustang/</loc>
 		<lastmod>2024-10-01T22:55:52+00:00</lastmod>
 		<image:image>
@@ -292,6 +285,13 @@
 		<lastmod>2025-04-07T16:50:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/FOTO-MINUATURA-ESCAPE11.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/kona-hibrida-hev/</loc>
+		<lastmod>2025-05-06T22:34:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Kona-Hibrida-HEV_Autonorte_New_013.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
