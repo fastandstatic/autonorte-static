@@ -24,17 +24,17 @@
 	</url>
 	<url>
 		<loc>/autos/hybrid-hyundai-2/</loc>
-		<lastmod>2025-05-06T22:34:45+00:00</lastmod>
+		<lastmod>2025-05-07T22:17:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos/hyundai/</loc>
-		<lastmod>2025-05-06T22:34:45+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos/productivo-dfsk/</loc>
+		<lastmod>2025-05-07T22:17:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos/productivo-hino/</loc>
+	</url>
+	<url>
+		<loc>/autos/productivo-dfsk/</loc>
 	</url>
 	<url>
 		<loc>/autos/sedan-suzuki/</loc>
@@ -57,14 +57,6 @@
 		<loc>/autos/subaru/</loc>
 	</url>
 	<url>
-		<loc>/autos/suv/</loc>
-		<lastmod>2025-01-03T21:33:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/autos/suv-hyundai-2/</loc>
-		<lastmod>2025-05-06T22:34:45+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/autos/suv-dfsk/</loc>
 	</url>
 	<url>
@@ -77,6 +69,14 @@
 	<url>
 		<loc>/autos/suv-citroen/</loc>
 		<lastmod>2025-04-03T19:44:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/autos/suv/</loc>
+		<lastmod>2025-01-03T21:33:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/autos/suv-hyundai-2/</loc>
+		<lastmod>2025-05-07T22:17:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/autos/suzuki/</loc>
