@@ -8,13 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/mustang/</loc>
-		<lastmod>2024-10-01T22:55:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/Mustang_IMG_Premium_miniatur.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/santa-fe-hibrida/</loc>
 		<lastmod>2024-10-04T17:07:43+00:00</lastmod>
 		<image:image>
@@ -47,13 +40,6 @@
 		<lastmod>2024-12-03T19:45:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/EXPLORER-MINI-11.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/cr-v/</loc>
-		<lastmod>2024-12-04T22:42:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/AZULALMIRANTE.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -183,13 +169,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/expedition/</loc>
-		<lastmod>2025-04-07T16:47:17+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/EXPEDITION-MINIATURA1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/escape/</loc>
 		<lastmod>2025-04-07T16:50:05+00:00</lastmod>
 		<image:image>
@@ -285,6 +264,27 @@
 		<lastmod>2025-05-08T19:15:39+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Baleno-Cross_Autonorte_New_0131.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/mustang/</loc>
+		<lastmod>2025-05-13T13:40:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/Mustang_IMG_Premium_miniatur.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/expedition/</loc>
+		<lastmod>2025-05-13T13:42:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/EXPEDITION-MINIATURA1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/cr-v/</loc>
+		<lastmod>2025-05-13T13:49:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/AZULALMIRANTE.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

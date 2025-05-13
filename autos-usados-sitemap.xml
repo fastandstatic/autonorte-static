@@ -8,20 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/peugeot-207/</loc>
-		<lastmod>2024-12-11T21:08:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/PEU-7.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/ford-fiesta/</loc>
-		<lastmod>2025-01-16T22:01:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/ford-miniatura.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/nissan-versa-v-drive/</loc>
 		<lastmod>2025-01-16T22:21:01+00:00</lastmod>
 		<image:image>
@@ -50,13 +36,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/kia-sportage/</loc>
-		<lastmod>2025-01-21T17:27:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/kia-sportage-minuatura.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/ford-ecosport/</loc>
 		<lastmod>2025-01-22T21:14:51+00:00</lastmod>
 		<image:image>
@@ -64,24 +43,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/peugeot-2008-allure/</loc>
-		<lastmod>2025-01-22T21:52:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/pegout-2008.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/peugeot-207-compact/</loc>
 		<lastmod>2025-01-22T21:53:03+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/207.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/hyundai-tucson-limited/</loc>
-		<lastmod>2025-01-23T15:11:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/hyundai-tucson-mini.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -99,24 +64,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/bmw-x1/</loc>
-		<lastmod>2025-01-25T16:23:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/bmw-x1-mini.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/bmw-330e/</loc>
 		<lastmod>2025-01-25T16:24:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/330-MINI.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/toyota-fortuner/</loc>
-		<lastmod>2025-01-28T14:46:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/toyota-mini.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -127,24 +78,45 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/suzuki-grand-vitara/</loc>
-		<lastmod>2025-02-08T15:28:07+00:00</lastmod>
+		<loc>/autos-usados/c4-cactus/</loc>
+		<lastmod>2025-05-09T19:47:26+00:00</lastmod>
 		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/MINI-GRAND.jpg</image:loc>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-09-at-11.08.10-AM-scaled.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/bmw-x1/</loc>
+		<lastmod>2025-05-09T21:38:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/bmw-x1-mini.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/autos-usados/suzuki-fronx-hibrida-glx/</loc>
-		<lastmod>2025-02-17T16:08:03+00:00</lastmod>
+		<lastmod>2025-05-09T22:00:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/02/MINI.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/c4-cactus/</loc>
-		<lastmod>2025-05-09T19:47:26+00:00</lastmod>
+		<loc>/autos-usados/peugeot-2008-allure/</loc>
+		<lastmod>2025-05-09T22:01:12+00:00</lastmod>
 		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-09-at-11.08.10-AM-scaled.jpeg</image:loc>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/pegout-2008.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/suzuki-grand-vitara/</loc>
+		<lastmod>2025-05-09T22:02:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/MINI-GRAND.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-usados/kia-sportage/</loc>
+		<lastmod>2025-05-09T22:04:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/kia-sportage-minuatura.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
