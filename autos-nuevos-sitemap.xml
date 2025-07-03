@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-nuevos/creta/</loc>
@@ -78,13 +78,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/13012/</loc>
-		<lastmod>2025-03-07T20:09:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/Tucson_New_Autonorte_New_01142.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/kona-electrica/</loc>
 		<lastmod>2025-03-07T20:15:43+00:00</lastmod>
 		<image:image>
@@ -110,13 +103,6 @@
 		<lastmod>2025-03-07T20:51:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C555_Autonorte_New_05.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c4/</loc>
-		<lastmod>2025-04-03T19:44:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C4_Autonorte_Auto00299.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -183,20 +169,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/c3-aircross/</loc>
-		<lastmod>2025-05-08T15:59:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/C3aircross_Autonorte_.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/c3/</loc>
-		<lastmod>2025-05-08T16:02:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/hb20s-sedan/</loc>
 		<lastmod>2025-05-08T16:22:53+00:00</lastmod>
 		<image:image>
@@ -218,13 +190,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/s-cross-hibrida/</loc>
-		<lastmod>2025-05-08T16:35:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/12/S-Cross-interna-azul.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/jimny/</loc>
 		<lastmod>2025-05-08T16:38:17+00:00</lastmod>
 		<image:image>
@@ -232,31 +197,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-nuevos/grand-vitara-hibrida/</loc>
-		<lastmod>2025-05-08T16:40:55+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Grand-Vitara-Hibrida_web786.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/swift-hibrido/</loc>
-		<lastmod>2025-05-08T16:43:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Swift-Hibrido_MINIATURA.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-nuevos/jimny-5-puertas/</loc>
 		<lastmod>2025-05-08T16:57:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Jimny_GA_WEB-Verde1-1MINIATURA.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-nuevos/fronx/</loc>
-		<lastmod>2025-05-08T17:01:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -285,6 +229,55 @@
 		<lastmod>2025-05-13T13:49:23+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/AZULALMIRANTE.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/fronx/</loc>
+		<lastmod>2025-06-04T20:39:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/suzuki-fronx-plata1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/swift-hibrido/</loc>
+		<lastmod>2025-06-04T21:14:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Swift-Hibrido_MINIATURA.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/s-cross-hibrida/</loc>
+		<lastmod>2025-06-04T21:16:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/12/S-Cross-interna-azul.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/grand-vitara-hibrida/</loc>
+		<lastmod>2025-06-04T21:16:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/Grand-Vitara-Hibrida_web786.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c3-aircross/</loc>
+		<lastmod>2025-06-04T21:18:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/C3aircross_Autonorte_.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/c3/</loc>
+		<lastmod>2025-06-04T21:21:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/C33ciroen_Autonorte_New_0112.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/autos-nuevos/13012/</loc>
+		<lastmod>2025-06-04T21:45:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/11/Tucson_New_Autonorte_New_01142.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

@@ -1,17 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/autos-usados/renault-duster-3/</loc>
 		<lastmod>2024-12-11T20:51:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/DUSTER-3.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/nissan-versa-v-drive/</loc>
-		<lastmod>2025-01-16T22:21:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/05/NISSAN-MINIAUTRA.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -64,24 +57,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/bmw-330e/</loc>
-		<lastmod>2025-01-25T16:24:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/330-MINI.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/autos-usados/mercedes-benz-glc-220d/</loc>
 		<lastmod>2025-01-28T14:52:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/08/mercedes-mini.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/autos-usados/c4-cactus/</loc>
-		<lastmod>2025-05-09T19:47:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-09-at-11.08.10-AM-scaled.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -113,10 +92,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/autos-usados/kia-sportage/</loc>
-		<lastmod>2025-05-09T22:04:19+00:00</lastmod>
+		<loc>/autos-usados/bmw-330e/</loc>
+		<lastmod>2025-07-02T21:03:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/kia-sportage-minuatura.jpg</image:loc>
+			<image:loc>https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2025/01/330-MINI.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
