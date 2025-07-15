@@ -1,4 +1,4 @@
-/*! pro-elements - v3.26.0 - 07-01-2025 */
+/*! elementor-pro - v3.30.0 - 01-07-2025 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -1242,6 +1242,13 @@ module.exports = function () {
       }
     });
   });
+  document.querySelector('.e-notice--cta.e-notice--dismissible[data-notice_id="send_app_forms_submissions_notice"] a.e-button--cta')?.addEventListener('click', function () {
+    elementorCommon.ajax.addRequest('elementor_send_app_campaign', {
+      data: {
+        source: 'snd-submission-install'
+      }
+    });
+  });
 };
 
 /***/ }),
@@ -1633,9 +1640,9 @@ module.exports = wp.i18n;
   \***********************************************************************/
 /***/ ((module) => {
 
-function _interopRequireDefault(obj) {
-  return obj && obj.__esModule ? obj : {
-    "default": obj
+function _interopRequireDefault(e) {
+  return e && e.__esModule ? e : {
+    "default": e
   };
 }
 module.exports = _interopRequireDefault, module.exports.__esModule = true, module.exports["default"] = module.exports;
