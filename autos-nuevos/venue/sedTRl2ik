@@ -8,9 +8,9 @@
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	
 	<!-- This site is optimized with the Yoast SEO plugin v25.5 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Ioniq 5</title>
-	<link rel="canonical" href="/autos-nuevos/ioniq-5/">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/autos-nuevos/ioniq-5/","url":"/autos-nuevos/ioniq-5/","name":"Ioniq 5","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/autos-nuevos/ioniq-5/#primaryimage"},"image":{"@id":"/autos-nuevos/ioniq-5/#primaryimage"},"thumbnailUrl":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioni_5_img_Autonorte.webp","datePublished":"2024-04-23T04:08:21+00:00","dateModified":"2025-04-07T15:52:22+00:00","breadcrumb":{"@id":"/autos-nuevos/ioniq-5/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/autos-nuevos/ioniq-5/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"/autos-nuevos/ioniq-5/#primaryimage","url":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioni_5_img_Autonorte.webp","contentUrl":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioni_5_img_Autonorte.webp","width":819,"height":491},{"@type":"BreadcrumbList","@id":"/autos-nuevos/ioniq-5/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Autos Nuevos","item":"/autos-nuevos/"},{"@type":"ListItem","position":2,"name":"Ioniq 5"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"AUTONORTE","description":"Concesionario Oficial | Venta de Automóviles Nuevos y Usados | Servicio de Taller y Repuestos","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"/#organization","name":"AUTONORTE","url":"/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"/#/schema/logo/image/","url":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/What_logo-entornodev-0092.png","contentUrl":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/What_logo-entornodev-0092.png","width":417,"height":417,"caption":"AUTONORTE"},"image":{"@id":"/#/schema/logo/image/"}}]}</script>
+	<title>Venue</title>
+	<link rel="canonical" href="/autos-nuevos/venue/">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"/autos-nuevos/venue/","url":"/autos-nuevos/venue/","name":"Venue","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/autos-nuevos/venue/#primaryimage"},"image":{"@id":"/autos-nuevos/venue/#primaryimage"},"thumbnailUrl":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp","datePublished":"2024-04-23T03:58:10+00:00","dateModified":"2025-07-03T19:53:35+00:00","breadcrumb":{"@id":"/autos-nuevos/venue/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["/autos-nuevos/venue/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"/autos-nuevos/venue/#primaryimage","url":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp","contentUrl":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/DFSK-Glory-2023_Autonorte_New-1_Web.webp","width":819,"height":491},{"@type":"BreadcrumbList","@id":"/autos-nuevos/venue/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Autos Nuevos","item":"/autos-nuevos/"},{"@type":"ListItem","position":2,"name":"Venue"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"AUTONORTE","description":"Concesionario Oficial | Venta de Automóviles Nuevos y Usados | Servicio de Taller y Repuestos","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"/#organization","name":"AUTONORTE","url":"/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"/#/schema/logo/image/","url":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/What_logo-entornodev-0092.png","contentUrl":"https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/What_logo-entornodev-0092.png","width":417,"height":417,"caption":"AUTONORTE"},"image":{"@id":"/#/schema/logo/image/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -332,7 +332,7 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 <link rel="apple-touch-icon" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-300x300.jpg">
 <meta name="msapplication-TileImage" content="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/09/Logo-AN-Autonorte-white-512x512px-300x300.jpg">
 </head>
-<body class="wp-singular autos-nuevos-template-default single single-autos-nuevos postid-5714 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-kit-5 elementor-page-1411">
+<body class="wp-singular autos-nuevos-template-default single single-autos-nuevos postid-5700 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-kit-5 elementor-page-1411">
 
 
 <a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
@@ -444,15 +444,15 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 					</div>
 				</div>
 				</div>
-				<div data-elementor-type="single-post" data-elementor-id="1411" class="elementor elementor-1411 elementor-location-single post-5714 autos-nuevos type-autos-nuevos status-publish has-post-thumbnail hentry" data-elementor-post-type="elementor_library">
+				<div data-elementor-type="single-post" data-elementor-id="1411" class="elementor elementor-1411 elementor-location-single post-5700 autos-nuevos type-autos-nuevos status-publish has-post-thumbnail hentry" data-elementor-post-type="elementor_library">
 			<div class="elementor-element elementor-element-0029a1b e-flex e-con-boxed e-con e-parent" data-id="0029a1b" data-element_type="container">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-3c42537 e-con-full e-flex e-con e-child" data-id="3c42537" data-element_type="container">
 		<div class="elementor-element elementor-element-1c94c84 e-con-full e-flex e-con e-child" data-id="1c94c84" data-element_type="container">
 				<div class="elementor-element elementor-element-ffd837f elementor-widget elementor-widget-image" data-id="ffd837f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioniq5-Img_774_Autonorte.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="ioniq5-Img_774_Autonorte" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjgwMTQiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvaW9uaXE1LUltZ183NzRfQXV0b25vcnRlLndlYnAifQ%3D%3D">
-							<img fetchpriority="high" width="990" height="619" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioniq5-Img_774_Autonorte.webp" class="attachment-full size-full wp-image-8014" alt="" srcset="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioniq5-Img_774_Autonorte.webp 990w, https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioniq5-Img_774_Autonorte-300x188.webp 300w, https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/ioniq5-Img_774_Autonorte-768x480.webp 768w" sizes="(max-width: 990px) 100vw, 990px">								</a>
+																<a href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-protectoresImg_4_Autonorte.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="venue-protectoresImg_4_Autonorte" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjgwMTEiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvdmVudWUtcHJvdGVjdG9yZXNJbWdfNF9BdXRvbm9ydGUud2VicCJ9">
+							<img fetchpriority="high" width="990" height="619" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-protectoresImg_4_Autonorte.webp" class="attachment-full size-full wp-image-8011" alt="" srcset="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-protectoresImg_4_Autonorte.webp 990w, https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-protectoresImg_4_Autonorte-300x188.webp 300w, https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-protectoresImg_4_Autonorte-768x480.webp 768w" sizes="(max-width: 990px) 100vw, 990px">								</a>
 															</div>
 				</div>
 				</div>
@@ -509,7 +509,7 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 		<div class="elementor-element elementor-element-bf58573 e-con-full e-flex e-con e-child" data-id="bf58573" data-element_type="container">
 				<div class="elementor-element elementor-element-109b5bb elementor-widget elementor-widget-heading" data-id="109b5bb" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default"><a href="/autos-nuevos/ioniq-5/">Ioniq 5</a></h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default"><a href="/autos-nuevos/venue/">Venue</a></h2>				</div>
 				</div>
 				</div>
 				</div>
@@ -524,7 +524,7 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 				</div>
 				<div class="elementor-element elementor-element-5b4d8ba elementor-widget elementor-widget-heading" data-id="5b4d8ba" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">$184.990.000</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">$92.990.000</h2>				</div>
 				</div>
 				</div>
 				</div>
@@ -536,9 +536,9 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 							<form class="elementor-form" method="post" id="cotizar_auto_single_page" name="cotizar_auto_single_page" aria-label="cotizar_auto_single_page">
 			<input type="hidden" name="post_id" value="1411">
 			<input type="hidden" name="form_id" value="887f542">
-			<input type="hidden" name="referer_title" value="Ioniq 5">
+			<input type="hidden" name="referer_title" value="Venue">
 
-							<input type="hidden" name="queried_id" value="5714">
+							<input type="hidden" name="queried_id" value="5700">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-chat_name elementor-col-100 elementor-sm-100 elementor-field-required">
@@ -795,7 +795,7 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">EV - Power</span>
+										<span class="elementor-icon-list-text">Limited</span>
 									</li>
 						</ul>
 						</div>
@@ -804,19 +804,19 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Ganador del reconocimiento: World Performance Car 2024</span>
+										<span class="elementor-icon-list-text">- Motor 1.6 L Gasolina</span>
 									</li>
 								<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Motor 100Kw/395Nm Eléctrico</span>
+										<span class="elementor-icon-list-text">- Transmisión 6AT</span>
 									</li>
 								<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Pantalla Touch 12.3 CarPlay y Android Auto</span>
+										<span class="elementor-icon-list-text">- Modos de Manejo: Eco, Sport y Lluvia</span>
 									</li>
 								<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Cargador inalámbrico para celular</span>
+										<span class="elementor-icon-list-text">- Control Crucero</span>
 									</li>
 								<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Tapizado en cuero - 6 airbags</span>
+										<span class="elementor-icon-list-text">- Garantía 7 años o 140.000 km - 6 airbags</span>
 									</li>
 								<li class="elementor-icon-list-item">
 										<span class="elementor-icon-list-text"></span>
@@ -949,14 +949,14 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 							<div class="elementor-icon-box-wrapper">
 
 						<div class="elementor-icon-box-icon">
-				<a href="/wp-content/uploads/2024/04/FT-IONIQ-5-EV-POWER.pdf" target="_blank" class="elementor-icon" tabindex="-1" aria-label="Descargar ficha técnica">
+				<a href="/wp-content/uploads/2024/04/FT-VENUE.pdf" target="_blank" class="elementor-icon" tabindex="-1" aria-label="Descargar ficha técnica">
 				<svg aria-hidden="true" class="e-font-icon-svg e-far-file-pdf" viewbox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M369.9 97.9L286 14C277 5 264.8-.1 252.1-.1H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V131.9c0-12.7-5.1-25-14.1-34zM332.1 128H256V51.9l76.1 76.1zM48 464V48h160v104c0 13.3 10.7 24 24 24h104v288H48zm250.2-143.7c-12.2-12-47-8.7-64.4-6.5-17.2-10.5-28.7-25-36.8-46.3 3.9-16.1 10.1-40.6 5.4-56-4.2-26.2-37.8-23.6-42.6-5.9-4.4 16.1-.4 38.5 7 67.1-10 23.9-24.9 56-35.4 74.4-20 10.3-47 26.2-51 46.2-3.3 15.8 26 55.2 76.1-31.2 22.4-7.4 46.8-16.5 68.4-20.1 18.9 10.2 41 17 55.8 17 25.5 0 28-28.2 17.5-38.7zm-198.1 77.8c5.1-13.7 24.5-29.5 30.4-35-19 30.3-30.4 35.7-30.4 35zm81.6-190.6c7.4 0 6.7 32.1 1.8 40.8-4.4-13.9-4.3-40.8-1.8-40.8zm-24.4 136.6c9.7-16.9 18-37 24.7-54.7 8.3 15.1 18.9 27.2 30.1 35.5-20.8 4.3-38.9 13.1-54.8 19.2zm131.6-5s-5 6-37.3-7.8c35.1-2.6 40.9 5.4 37.3 7.8z"></path></svg>				</a>
 			</div>
 			
 						<div class="elementor-icon-box-content">
 
 									<h3 class="elementor-icon-box-title">
-						<a href="/wp-content/uploads/2024/04/FT-IONIQ-5-EV-POWER.pdf" target="_blank">
+						<a href="/wp-content/uploads/2024/04/FT-VENUE.pdf" target="_blank">
 							Descargar ficha técnica						</a>
 					</h3>
 				
@@ -996,8 +996,8 @@ div:where(.swal2-container).swal2-backdrop-show, div:where(.swal2-container).swa
 				</div>
 				<div class="elementor-element elementor-element-e643ce6 elementor-widget elementor-widget-text-editor" data-id="e643ce6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									Haz el siguiente movimiento, con el EV que redefine la movilidad sostenible.
-El nuevo IONIQ 5 irradia un estilo futurista sin ser complejo, además de minimalista sin ser común; una estética atractiva e imponente, una recarga icónica a nuestro compromiso sostenible.								</div>
+									Una imagen de SUV compacta, compuesta por elegancia y emoción, esta es la Hyundai VENUE.
+El ritmo del camino lo decides tú, con nuestra SUV compacta, logras encontrar esa frecuencia a la que vibran tus emociones en el camino.								</div>
 				</div>
 				</div>
 					</div>
@@ -1022,7 +1022,7 @@ El nuevo IONIQ 5 irradia un estilo futurista sin ser complejo, además de minima
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">EV - Power</span>
+										<span class="elementor-icon-list-text">Limited</span>
 									</li>
 						</ul>
 						</div>
@@ -1031,19 +1031,19 @@ El nuevo IONIQ 5 irradia un estilo futurista sin ser complejo, además de minima
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Ganador del reconocimiento: World Performance Car 2024</span>
+										<span class="elementor-icon-list-text">- Motor 1.6 L Gasolina</span>
 									</li>
 								<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Motor 100Kw/395Nm Eléctrico</span>
+										<span class="elementor-icon-list-text">- Transmisión 6AT</span>
 									</li>
 								<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Pantalla Touch 12.3 CarPlay y Android Auto</span>
+										<span class="elementor-icon-list-text">- Modos de Manejo: Eco, Sport y Lluvia</span>
 									</li>
 								<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Cargador inalámbrico para celular</span>
+										<span class="elementor-icon-list-text">- Control Crucero</span>
 									</li>
 								<li class="elementor-icon-list-item">
-										<span class="elementor-icon-list-text">- Tapizado en cuero - 6 airbags</span>
+										<span class="elementor-icon-list-text">- Garantía 7 años o 140.000 km - 6 airbags</span>
 									</li>
 								<li class="elementor-icon-list-item">
 										<span class="elementor-icon-list-text"></span>
@@ -1192,14 +1192,14 @@ El nuevo IONIQ 5 irradia un estilo futurista sin ser complejo, además de minima
 							<div class="elementor-icon-box-wrapper">
 
 						<div class="elementor-icon-box-icon">
-				<a href="/wp-content/uploads/2024/04/FT-IONIQ-5-EV-POWER.pdf" target="_blank" class="elementor-icon" tabindex="-1" aria-label="Descargar ficha técnica">
+				<a href="/wp-content/uploads/2024/04/FT-VENUE.pdf" target="_blank" class="elementor-icon" tabindex="-1" aria-label="Descargar ficha técnica">
 				<svg aria-hidden="true" class="e-font-icon-svg e-far-file-pdf" viewbox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M369.9 97.9L286 14C277 5 264.8-.1 252.1-.1H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V131.9c0-12.7-5.1-25-14.1-34zM332.1 128H256V51.9l76.1 76.1zM48 464V48h160v104c0 13.3 10.7 24 24 24h104v288H48zm250.2-143.7c-12.2-12-47-8.7-64.4-6.5-17.2-10.5-28.7-25-36.8-46.3 3.9-16.1 10.1-40.6 5.4-56-4.2-26.2-37.8-23.6-42.6-5.9-4.4 16.1-.4 38.5 7 67.1-10 23.9-24.9 56-35.4 74.4-20 10.3-47 26.2-51 46.2-3.3 15.8 26 55.2 76.1-31.2 22.4-7.4 46.8-16.5 68.4-20.1 18.9 10.2 41 17 55.8 17 25.5 0 28-28.2 17.5-38.7zm-198.1 77.8c5.1-13.7 24.5-29.5 30.4-35-19 30.3-30.4 35.7-30.4 35zm81.6-190.6c7.4 0 6.7 32.1 1.8 40.8-4.4-13.9-4.3-40.8-1.8-40.8zm-24.4 136.6c9.7-16.9 18-37 24.7-54.7 8.3 15.1 18.9 27.2 30.1 35.5-20.8 4.3-38.9 13.1-54.8 19.2zm131.6-5s-5 6-37.3-7.8c35.1-2.6 40.9 5.4 37.3 7.8z"></path></svg>				</a>
 			</div>
 			
 						<div class="elementor-icon-box-content">
 
 									<h3 class="elementor-icon-box-title">
-						<a href="/wp-content/uploads/2024/04/FT-IONIQ-5-EV-POWER.pdf" target="_blank">
+						<a href="/wp-content/uploads/2024/04/FT-VENUE.pdf" target="_blank">
 							Descargar ficha técnica						</a>
 					</h3>
 				
@@ -1255,8 +1255,8 @@ El nuevo IONIQ 5 irradia un estilo futurista sin ser complejo, además de minima
 				</div>
 				<div class="elementor-element elementor-element-449a092 elementor-widget elementor-widget-text-editor" data-id="449a092" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									Haz el siguiente movimiento, con el EV que redefine la movilidad sostenible.
-El nuevo IONIQ 5 irradia un estilo futurista sin ser complejo, además de minimalista sin ser común; una estética atractiva e imponente, una recarga icónica a nuestro compromiso sostenible.								</div>
+									Una imagen de SUV compacta, compuesta por elegancia y emoción, esta es la Hyundai VENUE.
+El ritmo del camino lo decides tú, con nuestra SUV compacta, logras encontrar esa frecuencia a la que vibran tus emociones en el camino.								</div>
 				</div>
 				</div>
 					</div>
@@ -1275,17 +1275,12 @@ El nuevo IONIQ 5 irradia un estilo futurista sin ser complejo, además de minima
 				<div class="elementor-widget-container">
 							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Carrusel de imágenes" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
-								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2022-ioniq-5-0274-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxMzUiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyMi1pb25pcS01LTAyNzQtZ2FsbGVyeV8xNi05LndlYnAiLCJzbGlkZXNob3ciOiI3YzcxYWUxIn0%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0274-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0274-gallery_16-9.webp" alt="2022-ioniq-5-0274-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2024-ioniq-5-0219-notalent-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxMzMiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyNC1pb25pcS01LTAyMTktbm90YWxlbnQtZ2FsbGVyeV8xNi05LndlYnAiLCJzbGlkZXNob3ciOiI3YzcxYWUxIn0%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2024-ioniq-5-0219-notalent-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2024-ioniq-5-0219-notalent-gallery_16-9.webp" alt="2024-ioniq-5-0219-notalent-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2022-ioniq-5-0220-notalent-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxMzEiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyMi1pb25pcS01LTAyMjAtbm90YWxlbnQtZ2FsbGVyeV8xNi05LndlYnAiLCJzbGlkZXNob3ciOiI3YzcxYWUxIn0%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0220-notalent-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0220-notalent-gallery_16-9.webp" alt="2022-ioniq-5-0220-notalent-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2022-ioniq-5-0228-brakelights-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxNDIiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyMi1pb25pcS01LTAyMjgtYnJha2VsaWdodHMtZ2FsbGVyeV8xNi05LndlYnAiLCJzbGlkZXNob3ciOiI3YzcxYWUxIn0%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0228-brakelights-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0228-brakelights-gallery_16-9.webp" alt="2022-ioniq-5-0228-brakelights-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2022-ioniq-5-0234-talent1-apple-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxMzAiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyMi1pb25pcS01LTAyMzQtdGFsZW50MS1hcHBsZS1nYWxsZXJ5XzE2LTkud2VicCIsInNsaWRlc2hvdyI6IjdjNzFhZTEifQ%3D%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0234-talent1-apple-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0234-talent1-apple-gallery_16-9.webp" alt="2022-ioniq-5-0234-talent1-apple-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2022-ioniq-5-0236-navigation-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxMzYiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyMi1pb25pcS01LTAyMzYtbmF2aWdhdGlvbi1nYWxsZXJ5XzE2LTkud2VicCIsInNsaWRlc2hvdyI6IjdjNzFhZTEifQ%3D%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0236-navigation-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0236-navigation-gallery_16-9.webp" alt="2022-ioniq-5-0236-navigation-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2022-ioniq-5-0235-map-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxNDAiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyMi1pb25pcS01LTAyMzUtbWFwLWdhbGxlcnlfMTYtOS53ZWJwIiwic2xpZGVzaG93IjoiN2M3MWFlMSJ9" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0235-map-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0235-map-gallery_16-9.webp" alt="2022-ioniq-5-0235-map-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2022-ioniq-5-0231-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxMzIiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyMi1pb25pcS01LTAyMzEtZ2FsbGVyeV8xNi05LndlYnAiLCJzbGlkZXNob3ciOiI3YzcxYWUxIn0%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0231-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0231-gallery_16-9.webp" alt="2022-ioniq-5-0231-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2022-ioniq-5-0257-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxMzciLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyMi1pb25pcS01LTAyNTctZ2FsbGVyeV8xNi05LndlYnAiLCJzbGlkZXNob3ciOiI3YzcxYWUxIn0%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0257-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0257-gallery_16-9.webp" alt="2022-ioniq-5-0257-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2022-ioniq-5-0241-trunk-up2-gallery_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxMzgiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyMi1pb25pcS01LTAyNDEtdHJ1bmstdXAyLWdhbGxlcnlfMTYtOS53ZWJwIiwic2xpZGVzaG93IjoiN2M3MWFlMSJ9" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0241-trunk-up2-gallery_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2022-ioniq-5-0241-trunk-up2-gallery_16-9.webp" alt="2022-ioniq-5-0241-trunk-up2-gallery_16-9"></figure></a></div>
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="11 de 11"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="2024-ioniq-5-disney-100-ne-0466-02_16-9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjcxNDEiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvMjAyNC1pb25pcS01LWRpc25leS0xMDAtbmUtMDQ2Ni0wMl8xNi05LndlYnAiLCJzbGlkZXNob3ciOiI3YzcxYWUxIn0%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2024-ioniq-5-disney-100-ne-0466-02_16-9.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/2024-ioniq-5-disney-100-ne-0466-02_16-9.webp" alt="2024-ioniq-5-disney-100-ne-0466-02_16-9"></figure></a></div>			</div>
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 de 6"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="venue-protectoresImg_4_Autonorte" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjgwMTEiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvdmVudWUtcHJvdGVjdG9yZXNJbWdfNF9BdXRvbm9ydGUud2VicCIsInNsaWRlc2hvdyI6IjdjNzFhZTEifQ%3D%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-protectoresImg_4_Autonorte.webp"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-protectoresImg_4_Autonorte.webp" alt="venue-protectoresImg_4_Autonorte"></figure></a></div>
+<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 de 6"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="venue-protectores-laterales" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjY4MDUiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvdmVudWUtcHJvdGVjdG9yZXMtbGF0ZXJhbGVzLmpwZyIsInNsaWRlc2hvdyI6IjdjNzFhZTEifQ%3D%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-protectores-laterales.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-protectores-laterales.jpg" alt="venue-protectores-laterales"></figure></a></div>
+<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 de 6"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="venue-airbags" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjY4MDEiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvdmVudWUtYWlyYmFncy5qcGciLCJzbGlkZXNob3ciOiI3YzcxYWUxIn0%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-airbags.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-airbags.jpg" alt="venue-airbags"></figure></a></div>
+<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 de 6"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="venue-dms" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjY4MDMiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvdmVudWUtZG1zLmpwZyIsInNsaWRlc2hvdyI6IjdjNzFhZTEifQ%3D%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-dms.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-dms.jpg" alt="venue-dms"></figure></a></div>
+<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 de 6"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="venue-hac" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjY4MDQiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvdmVudWUtaGFjLmpwZyIsInNsaWRlc2hvdyI6IjdjNzFhZTEifQ%3D%3D" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-hac.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-hac.jpg" alt="venue-hac"></figure></a></div>
+<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 de 6"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="7c71ae1" data-elementor-lightbox-title="venue-tablero-instrumentos" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjY4MDYiLCJ1cmwiOiJodHRwczpcL1wvZmFzdGFuZHN0YXRpYy1vZmZsb2FkLWF1dG9ub3J0ZS5zMy5hbWF6b25hd3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wNFwvdmVudWUtdGFibGVyby1pbnN0cnVtZW50b3MuanBnIiwic2xpZGVzaG93IjoiN2M3MWFlMSJ9" href="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-tablero-instrumentos.jpg"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://fastandstatic-offload-autonorte.s3.amazonaws.com/wp-content/uploads/2024/04/venue-tablero-instrumentos.jpg" alt="venue-tablero-instrumentos"></figure></a></div>			</div>
 												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
 						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewbox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>					</div>
 					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
@@ -1630,9 +1625,9 @@ Sector lote Bureche
 							<form class="elementor-form" method="post" id="cotizar_auto_page" name="cotizar_auto_page" aria-label="cotizar_auto_page" novalidate="">
 			<input type="hidden" name="post_id" value="2537">
 			<input type="hidden" name="form_id" value="2ac1d13">
-			<input type="hidden" name="referer_title" value="Ioniq 5">
+			<input type="hidden" name="referer_title" value="Venue">
 
-							<input type="hidden" name="queried_id" value="5714">
+							<input type="hidden" name="queried_id" value="5700">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-chat_name elementor-col-100 elementor-sm-100 elementor-field-required">
@@ -1949,9 +1944,9 @@ Sector lote Bureche
 							<form class="elementor-form" method="post" id="test_drive" name="test_drive" aria-label="test_drive">
 			<input type="hidden" name="post_id" value="12294">
 			<input type="hidden" name="form_id" value="ee7a5d6">
-			<input type="hidden" name="referer_title" value="Ioniq 5">
+			<input type="hidden" name="referer_title" value="Venue">
 
-							<input type="hidden" name="queried_id" value="5714">
+							<input type="hidden" name="queried_id" value="5700">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-chat_name elementor-col-100 elementor-sm-100 elementor-field-required">
@@ -2260,9 +2255,9 @@ Sector lote Bureche
 							<form class="elementor-form" method="post" id="test_drive" name="test_drive" aria-label="test_drive" novalidate="">
 			<input type="hidden" name="post_id" value="11706">
 			<input type="hidden" name="form_id" value="7332c3d">
-			<input type="hidden" name="referer_title" value="Ioniq 5">
+			<input type="hidden" name="referer_title" value="Venue">
 
-							<input type="hidden" name="queried_id" value="5714">
+							<input type="hidden" name="queried_id" value="5700">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-chat_name elementor-col-100 elementor-sm-100 elementor-field-required">
@@ -2540,9 +2535,9 @@ Sector lote Bureche
 							<form class="elementor-form" method="post" id="usado_certificados" name="usado_certificados" aria-label="usado_certificados">
 			<input type="hidden" name="post_id" value="4967">
 			<input type="hidden" name="form_id" value="939998e">
-			<input type="hidden" name="referer_title" value="Ioniq 5">
+			<input type="hidden" name="referer_title" value="Venue">
 
-							<input type="hidden" name="queried_id" value="5714">
+							<input type="hidden" name="queried_id" value="5700">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-chat_name elementor-col-100 elementor-sm-100 elementor-field-required">
@@ -2557,7 +2552,7 @@ Sector lote Bureche
 
 						</div>
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-marca_auto elementor-col-100 elementor-field-required">
-													<input size="1" type="text" name="form_fields[marca_auto]" id="form-field-marca_auto" class="elementor-field elementor-size-xs  elementor-field-textual" placeholder="Ioniq 5" value="Ioniq 5" required="required">
+													<input size="1" type="text" name="form_fields[marca_auto]" id="form-field-marca_auto" class="elementor-field elementor-size-xs  elementor-field-textual" placeholder="Venue" value="Venue" required="required">
 											</div>
 								<div class="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-customer_city elementor-col-100 elementor-sm-100 elementor-field-required">
 												<label for="form-field-customer_city" class="elementor-field-label elementor-screen-only">
@@ -2807,7 +2802,7 @@ Sector lote Bureche
 <script src="/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.30.2" id="elementor-webpack-runtime-js"></script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.30.2" id="elementor-frontend-modules-js"></script>
 <script src="/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.30.2","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"c919d2e091"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[],"dynamicooo":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":5714,"title":"Ioniq%205","excerpt":"","featuredImage":"https:\/\/fastandstatic-offload-autonorte.s3.amazonaws.com\/wp-content\/uploads\/2024\/04\/ioni_5_img_Autonorte.webp"}};</script>
+<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.30.2","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"c919d2e091"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[],"dynamicooo":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":5700,"title":"Venue","excerpt":"","featuredImage":"https:\/\/fastandstatic-offload-autonorte.s3.amazonaws.com\/wp-content\/uploads\/2024\/04\/DFSK-Glory-2023_Autonorte_New-1_Web.webp"}};</script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.30.2" id="elementor-frontend-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=3.30.0" id="e-sticky-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
